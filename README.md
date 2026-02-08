@@ -3,8 +3,9 @@
 Official implementation for the paper **"Planner Matters! An Efficient and Unbalanced Multi-agent Collaboration Framework for Long-horizon GUI Planning"**.
 
 ---
+## Framework overview
 
-## Brief introduction
+![Framework overview](media/framework.png)
 
 Vision-language model (VLM)–based GUI agents have shown promising results in automating computer tasks from natural language instructions, but they still struggle with **long-horizon planning and reasoning**. We address this by proposing a **human-like multi-agent framework** that decomposes GUI automation into:
 
@@ -19,14 +20,6 @@ This decomposition enables structured decision-making over long interaction hori
 - **`planner-matter-inference/`** — Inference and evaluation (browser env, agent, memory, benchmarks, run scripts).
 - **`planner-matter-RL/`** — Planner-centric RL training (Ray, PPO, vLLM rollouts, VLM-as-judge).
 - **`planner-matter-sft/`** — SFT / LoRA training utilities.
-
----
-
-## Framework overview
-
-![Framework overview](media/framework.png)
-
-The system uses a **planner** (with optional memory retrieval), an **actor** for browser actions, and a **memory manager**; planner-centric RL trains only the planner with a frozen actor and memory.
 
 ---
 
@@ -89,21 +82,24 @@ We provide the following on **Hugging Face** for reproducibility:
 
 **Planner / agent checkpoints**
 
-- **WenyiWU0111/Qwen2_5_7B_RL_planner**
-- **WenyiWU0111/Qwen2_5_3B_RL_planner**
-- **WenyiWU0111/Qwen3_8B_RL_planner**
+- [**WenyiWU0111/Qwen2_5_7B_RL_planner**](https://huggingface.co/WenyiWU0111/Qwen2_5_7B_RL_planner)
+- [**WenyiWU0111/Qwen2_5_3B_RL_planner**](https://huggingface.co/WenyiWU0111/Qwen2_5_3B_RL_planner)
+- [**WenyiWU0111/Qwen3_8B_RL_planner**](https://huggingface.co/WenyiWU0111/Qwen3_8B_RL_planner)
 
 Use these as the planner (or actor) checkpoint in `.env` (`CHECKPOINT_PATH`) or in training (`MODEL_PATH` / `--pretrain`).
 
 **Trajectory dataset (experience memory)**
 
-- **WenyiWU0111/webvoyager_memory** — WebVoyager-style experience trajectories for building discrete takeaways and the planner FAISS index (e.g. in `planner-matter-inference`: set `MEMORY_DATA_DIR` or place data under `data/trajectories`, then run `memory/precompute_takeaways.py` and `memory/experience_memory_planner.py`).
+- [**WenyiWU0111/webvoyager_memory**](https://huggingface.co/WenyiWU0111/webvoyager_memory)
+- [**WenyiWU0111/CoMEM-agent-memory-trajectories**](https://huggingface.co/datasets/WenyiWU0111/CoMEM-agent-memory-trajectories)
+
+These trajectories can be downloaded to `planner-matter-inference/data/trajectories`, set `MEMORY_DATA_DIR`, and run `memory/precompute_takeaways.py` and `memory/experience_memory_planner.py`).
 
 ---
 
 ## TODO
 
-- **Continuous memory embedding generation scripts** — Scripts to generate and index continuous (dense) memory embeddings for the memory manager will be released in a future update.
+- **Continuous memory embedding generation scripts** — Scripts to prepare continuous memory embeddings will be released soon.
 
 ---
 
@@ -114,12 +110,8 @@ If you use this code or the planner-centric framework, please cite our paper:
 ```bibtex
 @article{planner-matters-2025,
   title   = {Planner Matters! An Efficient and Unbalanced Multi-agent Collaboration Framework for Long-horizon GUI Planning},
-  author  = {...},
+  author  = {Wenyi Wu* and Sibo Zhu* and Kun Zhou and Biwei Huang},
   journal = {...},
   year    = {2025}
 }
 ```
-
-*(Replace with the final citation once the paper is published.)*
-
-Our code is publicly released as described in the paper.
