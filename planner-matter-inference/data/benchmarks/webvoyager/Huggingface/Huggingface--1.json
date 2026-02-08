@@ -1,0 +1,6 @@
+{
+    "intent": "Use the Huggingface Inference API to generate a short story about a dragon and a wizard.",
+    "task_id": "Huggingface--1",
+    "site": "Huggingface",
+    "start_url": "https://huggingface.co/"
+}

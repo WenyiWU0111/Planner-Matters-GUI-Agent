@@ -1,0 +1,6 @@
+{
+    "intent": "Search for the word \"sustainability\" on the Cambridge Dictionary, what is the translation of sustainability into Chinese and French in the dictionary.",
+    "task_id": "Cambridge_Dictionary--6",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

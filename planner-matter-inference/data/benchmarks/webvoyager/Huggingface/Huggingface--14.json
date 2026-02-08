@@ -1,0 +1,6 @@
+{
+    "intent": "How much is the Pro account of Hugging face for a month and what are the features?",
+    "task_id": "Huggingface--14",
+    "site": "Huggingface",
+    "start_url": "https://huggingface.co/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Check ESPN for the score and a brief recap of the latest college football championship game.",
+    "task_id": "ESPN--10",
+    "site": "ESPN",
+    "start_url": "https://www.espn.com/"
+}

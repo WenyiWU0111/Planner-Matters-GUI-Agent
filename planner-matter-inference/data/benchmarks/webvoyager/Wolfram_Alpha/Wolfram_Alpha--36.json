@@ -1,0 +1,6 @@
+{
+    "intent": "Determine the convergence or divergence of the series \u03a3 (n=1 to \u221e) of 1/(n^3 + 1).",
+    "task_id": "Wolfram_Alpha--36",
+    "site": "Wolfram_Alpha",
+    "start_url": "https://www.wolframalpha.com/"
+}

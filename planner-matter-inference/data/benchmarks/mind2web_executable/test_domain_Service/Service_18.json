@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 18, "start_url": "https://www.ups.com/", "intent": "Locate the ups store that offers notary public services and sells packaging supplies within 10 miles of zip code 60504.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

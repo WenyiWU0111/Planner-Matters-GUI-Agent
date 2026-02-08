@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 2, "start_url": "https://www.healthgrades.com/", "intent": "Browse optometrists who offer telehealth services", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

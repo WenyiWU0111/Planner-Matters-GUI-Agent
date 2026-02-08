@@ -1,0 +1,6 @@
+{
+    "intent": " Use Google Search to find an article that explains the major differences between American English and British English.",
+    "task_id": "Google_Search--42",
+    "site": "Google_Search",
+    "start_url": "https://www.google.com/"
+}

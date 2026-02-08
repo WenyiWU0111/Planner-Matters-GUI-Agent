@@ -1,0 +1,6 @@
+{
+    "intent": "find the score of the latest nba game played by the phoenix suns.",
+    "task_id": "Google_Search--5",
+    "site": "Google_Search",
+    "start_url": "https://www.google.com/"
+}

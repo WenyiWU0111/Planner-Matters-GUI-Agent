@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 53, "start_url": "https://www.glassdoor.com/", "intent": "Read employee reviews and ratings for Google.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

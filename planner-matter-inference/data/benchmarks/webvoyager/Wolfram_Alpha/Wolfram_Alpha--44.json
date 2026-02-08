@@ -1,0 +1,6 @@
+{
+    "intent": "Solve the ODE, g' + cos(g) = 0, if there is a constant in the result, determine the value of the constant by the condition that g(0) = 1.",
+    "task_id": "Wolfram_Alpha--44",
+    "site": "Wolfram_Alpha",
+    "start_url": "https://www.wolframalpha.com/"
+}

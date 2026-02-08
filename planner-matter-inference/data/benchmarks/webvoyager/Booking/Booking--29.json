@@ -1,0 +1,6 @@
+{
+    "intent": "Search for a hotel in Toronto with a fitness center and a rating of 8+, available for a two-night stay from March 5 to March 7, 2024.",
+    "task_id": "Booking--29",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

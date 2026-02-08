@@ -1,0 +1,6 @@
+{
+    "intent": "Find the button to share arxiv non-profit store and follow the QR code to share the shop. Then add arXiv Forever short sleeve (XL) to your cart.",
+    "task_id": "ArXiv--41",
+    "site": "ArXiv",
+    "start_url": "https://arxiv.org/"
+}

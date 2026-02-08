@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 53, "start_url": "https://health.usnews.com/", "intent": "Within 25 Miles of 96817, find a nursing home that accepts medicare.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 7, "start_url": "https://www.nba.com/", "intent": "Show me the statistics for assists per game.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

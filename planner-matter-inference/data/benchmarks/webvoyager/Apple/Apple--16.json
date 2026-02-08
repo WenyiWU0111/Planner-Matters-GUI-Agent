@@ -1,0 +1,6 @@
+{
+    "intent": "Find on Apple website how many types of AirPods (3rd generation) are available and what is the price difference.",
+    "task_id": "Apple--16",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

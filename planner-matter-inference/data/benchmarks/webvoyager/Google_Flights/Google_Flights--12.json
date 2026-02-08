@@ -1,0 +1,6 @@
+{
+    "intent": "Find the best-priced round-trip flight from New York to London leaving on December 25, 2023, and returning on January 5, 2024, with one stop or fewer.",
+    "task_id": "Google_Flights--12",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

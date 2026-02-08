@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 28, "start_url": "https://shopping.google.com/", "intent": "Find best reviewed 27\"-32\" Samsung or LG computer monitors nearby which have 4k, IPS display", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

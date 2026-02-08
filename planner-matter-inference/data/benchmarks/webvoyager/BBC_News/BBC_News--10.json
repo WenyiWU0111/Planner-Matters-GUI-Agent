@@ -1,0 +1,6 @@
+{
+    "intent": "Identify the main headlines covering the UK's plan to tackle climate change on BBC News.",
+    "task_id": "BBC_News--10",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

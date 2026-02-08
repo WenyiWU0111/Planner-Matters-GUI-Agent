@@ -1,0 +1,6 @@
+{
+    "intent": "Search for an electric kettle on Amazon with a capacity of at least 1.5 liters, made of stainless steel, and with a customer rating of 4 stars or above.",
+    "task_id": "Amazon--32",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

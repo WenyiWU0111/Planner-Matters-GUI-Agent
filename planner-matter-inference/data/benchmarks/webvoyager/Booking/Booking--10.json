@@ -1,0 +1,6 @@
+{
+    "intent": "Find a well-reviewed hotel in Paris with available bookings suitable for a couple (2 adults) on Valentine's Day week, February 14-21, 2024, that offers free cancellation options.",
+    "task_id": "Booking--10",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

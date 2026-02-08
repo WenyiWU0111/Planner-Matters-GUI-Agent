@@ -1,0 +1,6 @@
+{
+    "intent": "Find the latest Diffusion-related blog on Hugging Face, and read its intro or overview section to roughly summarize the content of the blog.",
+    "task_id": "Huggingface--35",
+    "site": "Huggingface",
+    "start_url": "https://huggingface.co/"
+}

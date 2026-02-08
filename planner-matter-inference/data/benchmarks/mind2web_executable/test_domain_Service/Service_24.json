@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 24, "start_url": "https://www.healthline.com/", "intent": "Play a video in the mental health category.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

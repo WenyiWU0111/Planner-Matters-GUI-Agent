@@ -1,0 +1,33 @@
+{
+    "sites": [
+        "wikipedia"
+    ],
+    "task_id": 214,
+    "require_login": true,
+    "storage_state": "",
+    "start_url": "https://library.kiwix.org/viewer#wikipedia_en_all_maxi_2024-01/A/User%3AThe_other_Kiwix_guy/Landing",
+    "geolocation": null,
+    "intent_template": "Does the Astrophytum coahuilense or the Saxifraga hirculus have more petals on each flower bud?",
+    "instantiation_dict": {},
+    "intent": "Does the Astrophytum coahuilense or the Saxifraga hirculus have more petals on each flower bud?",
+    "require_reset": false,
+    "eval": {
+        "eval_types": [
+            "string_match"
+        ],
+        "reference_answers": {
+            "fuzzy_match": [
+                "The Astrophytum coahuilense has more petals on each flower but than the Saxifraga hirculus."
+            ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": [
+            "The Astrophytum coahuilense has more petals on each flower but than the Saxifraga hirculus."
+        ]
+    },
+    "intent_template_id": 348,
+    "hop_cnt": 2,
+    "action_cnt": 6
+}

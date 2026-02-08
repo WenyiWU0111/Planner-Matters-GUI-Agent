@@ -1,0 +1,6 @@
+{
+    "intent": "Find a Uniqlo locations in Chicago, IL.",
+    "task_id": "Google_Map--6",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

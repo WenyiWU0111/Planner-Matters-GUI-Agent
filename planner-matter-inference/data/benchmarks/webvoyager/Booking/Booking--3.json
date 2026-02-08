@@ -1,0 +1,6 @@
+{
+    "intent": "Find a hotel with 4 star and above rating in Los Angeles for 3 days from Dec 18th.",
+    "task_id": "Booking--3",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

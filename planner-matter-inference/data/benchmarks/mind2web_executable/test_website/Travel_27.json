@@ -1,0 +1,1 @@
+{"sites": ["Travel"], "task_id": 27, "start_url": "https://www.tripadvisor.com/", "intent": "Find hotels in Orlando from April 2nd to April 8th for 2 adults and 1 child aged 4 years.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

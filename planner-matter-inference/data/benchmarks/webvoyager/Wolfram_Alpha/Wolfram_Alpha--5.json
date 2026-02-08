@@ -1,0 +1,6 @@
+{
+    "intent": "Show the solution of y\"(z) + sin(y(z)) = 0 from wolframalpha.",
+    "task_id": "Wolfram_Alpha--5",
+    "site": "Wolfram_Alpha",
+    "start_url": "https://www.wolframalpha.com/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Locate the Target stores in Atlanta, GA. How many results are shown on the map.",
+    "task_id": "Google_Map--27",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

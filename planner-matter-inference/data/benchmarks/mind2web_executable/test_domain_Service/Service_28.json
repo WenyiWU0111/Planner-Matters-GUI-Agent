@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 28, "start_url": "https://www.webmd.com/", "intent": "Find the ranking of Cardiology hospitals in Portland, Oregon, and view the best hospital chosen by patients, view all the physicians working in the hospital, and find the best-rated child neurology specialist.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

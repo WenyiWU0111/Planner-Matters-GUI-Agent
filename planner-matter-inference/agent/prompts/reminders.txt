@@ -1,0 +1,8 @@
+IMPORTANT REMINDERS:
+- Please specify the number label of the item you want to interact with, in the description of the action.
+- Don't repeat the same action multiple times - try different approaches if something doesn't work
+- If your previous action is type, then you must click related pages or scroll pages to find the information you need.
+- Pay attention to images, for many questions about the shape, color, location, etc., you can answer according to the images.
+- If the current search term yields no results, you must adjust your search term and try again.
+- You must provide an answer within the remaining steps.
+- Only output one action at a time, do not output multiple actions at once

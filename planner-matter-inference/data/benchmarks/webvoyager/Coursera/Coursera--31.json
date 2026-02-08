@@ -1,0 +1,6 @@
+{
+    "intent": "Search for the course 'Exploring Quantum Physics' on Coursera, offered by the University of Maryland, College Park. Identify the percentage (rounded) of 5-star ratings in the reviews.",
+    "task_id": "Coursera--31",
+    "site": "Coursera",
+    "start_url": "https://www.coursera.org/"
+}

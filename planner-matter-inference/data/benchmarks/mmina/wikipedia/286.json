@@ -1,0 +1,33 @@
+{
+    "sites": [
+        "wikipedia"
+    ],
+    "task_id": 286,
+    "require_login": true,
+    "storage_state": "",
+    "start_url": "https://library.kiwix.org/viewer#wikipedia_en_all_maxi_2024-01/A/User%3AThe_other_Kiwix_guy/Landing",
+    "geolocation": null,
+    "intent_template": "Which blooms have 4 petals; Iberis sempervirens or Plumeria (Frangipani)?",
+    "instantiation_dict": {},
+    "intent": "Which blooms have 4 petals; Iberis sempervirens or Plumeria (Frangipani)?",
+    "require_reset": false,
+    "eval": {
+        "eval_types": [
+            "string_match"
+        ],
+        "reference_answers": {
+            "fuzzy_match": [
+                "Blooms of Iberis sempervirens have four petals, while those of Plumeria (Frangipani) do not."
+            ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": [
+            "Blooms of Iberis sempervirens have four petals, while those of Plumeria (Frangipani) do not."
+        ]
+    },
+    "intent_template_id": 348,
+    "hop_cnt": 2,
+    "action_cnt": 6
+}

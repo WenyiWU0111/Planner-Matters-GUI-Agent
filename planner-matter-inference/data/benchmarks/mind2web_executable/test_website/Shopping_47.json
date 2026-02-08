@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 47, "start_url": "https://shopping.google.com/", "intent": "Create a product collection called \"Future Birthday Gifts\"", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

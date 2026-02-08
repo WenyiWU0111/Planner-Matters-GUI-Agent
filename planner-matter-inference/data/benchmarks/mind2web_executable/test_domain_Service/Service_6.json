@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 6, "start_url": "https://www.healthgrades.com/", "intent": "Find a psychiatrist who offers virtual appointmentsthat has experience with treating neurodevelopment disorders and accepts new patients.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

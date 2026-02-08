@@ -1,0 +1,6 @@
+{
+    "intent": "Check out the NBA Basketball Power Index 2023-24 to see which teams are in first place and which are in last place.",
+    "task_id": "ESPN--17",
+    "site": "ESPN",
+    "start_url": "https://www.espn.com/"
+}

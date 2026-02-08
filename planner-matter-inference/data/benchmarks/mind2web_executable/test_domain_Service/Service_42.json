@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 42, "start_url": "https://ohio.gov/", "intent": "Find the procedure to get the license for Athletic Trainer", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

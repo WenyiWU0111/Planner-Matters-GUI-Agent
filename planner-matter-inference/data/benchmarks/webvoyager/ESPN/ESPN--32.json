@@ -1,0 +1,6 @@
+{
+    "intent": "Review yesterday's NHL game results on ESPN, focusing on teams' performance.",
+    "task_id": "ESPN--32",
+    "site": "ESPN",
+    "start_url": "https://www.espn.com/"
+}

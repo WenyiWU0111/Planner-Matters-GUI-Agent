@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 14, "start_url": "https://www.bestbuy.com/", "intent": "Buy the highest-rated physical birthday gift card of 50 dollars and add 2 gift cards to the cart.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

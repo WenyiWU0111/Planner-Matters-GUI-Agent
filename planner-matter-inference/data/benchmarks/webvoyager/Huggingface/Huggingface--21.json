@@ -1,0 +1,6 @@
+{
+    "intent": "Look up the tour about how to use the 'pipeline' feature in the Hugging Face Transformers library for sentiment analysis, and identify the default model it uses.",
+    "task_id": "Huggingface--21",
+    "site": "Huggingface",
+    "start_url": "https://huggingface.co/"
+}

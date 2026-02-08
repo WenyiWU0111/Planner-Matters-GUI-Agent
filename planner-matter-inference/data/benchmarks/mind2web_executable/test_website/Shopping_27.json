@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 27, "start_url": "https://www.cars.com/", "intent": "Find the Recall information provided by National Highway Traffic Safety Administration for Chevrolet model bolt EUV for the year 2022", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

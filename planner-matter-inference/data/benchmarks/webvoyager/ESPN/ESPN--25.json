@@ -1,0 +1,6 @@
+{
+    "intent": "Identify the player with the most assists in the latest NBA game and show me the assists, the team they play for, and their position.",
+    "task_id": "ESPN--25",
+    "site": "ESPN",
+    "start_url": "https://www.espn.com/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Look up the definition, pronunciation in UK English, and at least one example using the word 'mitigate'.",
+    "task_id": "Cambridge_Dictionary--40",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

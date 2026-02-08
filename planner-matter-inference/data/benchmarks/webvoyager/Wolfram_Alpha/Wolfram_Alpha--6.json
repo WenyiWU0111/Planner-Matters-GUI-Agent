@@ -1,0 +1,6 @@
+{
+    "intent": "Simplify x^5-20x^4+163x^3-676x^2+1424x-1209 so that it has fewer items.",
+    "task_id": "Wolfram_Alpha--6",
+    "site": "Wolfram_Alpha",
+    "start_url": "https://www.wolframalpha.com/"
+}

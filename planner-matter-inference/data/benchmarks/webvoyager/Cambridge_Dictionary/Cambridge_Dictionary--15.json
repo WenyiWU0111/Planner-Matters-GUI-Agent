@@ -1,0 +1,6 @@
+{
+    "intent": "Find the pronunciation and a sample sentence for the word \"pandemic.\"",
+    "task_id": "Cambridge_Dictionary--15",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

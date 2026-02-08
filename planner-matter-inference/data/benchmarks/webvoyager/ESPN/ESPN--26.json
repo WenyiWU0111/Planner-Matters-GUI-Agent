@@ -1,0 +1,6 @@
+{
+    "intent": "Find information on ESPN NBA schedule. Tell me yesterday's matchups in which the loser high was higher than the winner high.",
+    "task_id": "ESPN--26",
+    "site": "ESPN",
+    "start_url": "https://www.espn.com/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Find the best-priced round-trip flight from Seattle to Paris, departing on February 27, 2024, and returning on March 1, 2024, with a maximum of one stop.",
+    "task_id": "Google_Flights--28",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

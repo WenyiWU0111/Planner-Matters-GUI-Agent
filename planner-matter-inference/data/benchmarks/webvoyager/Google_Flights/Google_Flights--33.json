@@ -1,0 +1,6 @@
+{
+    "intent": "Find a one-way flight from Shanghai to Vancouver on February 27, 2024, and compare the options based on carbon dioxide emissions.",
+    "task_id": "Google_Flights--33",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

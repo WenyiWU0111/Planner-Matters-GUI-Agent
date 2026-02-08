@@ -1,0 +1,6 @@
+{
+    "intent": "Identify the electrical energy output of a hydroelectric power plant named Itaipu Dam in 2023 using Wolfram Alpha.",
+    "task_id": "Wolfram_Alpha--33",
+    "site": "Wolfram_Alpha",
+    "start_url": "https://www.wolframalpha.com/"
+}

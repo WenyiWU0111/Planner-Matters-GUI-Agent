@@ -1,0 +1,1 @@
+{"sites": ["Travel"], "task_id": 19, "start_url": "https://www.recreation.gov/", "intent": "Find a day use park that offers horseback riding near Nashville.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

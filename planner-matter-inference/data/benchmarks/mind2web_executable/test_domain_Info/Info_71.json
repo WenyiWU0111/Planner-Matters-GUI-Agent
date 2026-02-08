@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 71, "start_url": "https://www.apartments.com/", "intent": "Show apartments with swimming pool in Chicago IL.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

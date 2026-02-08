@@ -1,0 +1,6 @@
+{
+    "intent": "Search for the one-way flight available from Calgary to New York on Jan. 1st with the lowest carbon dioxide emissions.",
+    "task_id": "Google_Flights--3",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Search for a model on Hugging Face with an Apache-2.0 license that has received the highest number of likes.",
+    "task_id": "Huggingface--24",
+    "site": "Huggingface",
+    "start_url": "https://huggingface.co/"
+}

@@ -1,0 +1,33 @@
+{
+    "sites": [
+        "wikipedia"
+    ],
+    "task_id": 265,
+    "require_login": true,
+    "storage_state": "",
+    "start_url": "https://library.kiwix.org/viewer#wikipedia_en_all_maxi_2024-01/A/User%3AThe_other_Kiwix_guy/Landing",
+    "geolocation": null,
+    "intent_template": "What grows near both the Garden of Cultivation and a stone pavilion?",
+    "instantiation_dict": {},
+    "intent": "What grows near both the Garden of Cultivation and a stone pavilion?",
+    "require_reset": false,
+    "eval": {
+        "eval_types": [
+            "string_match"
+        ],
+        "reference_answers": {
+            "fuzzy_match": [
+                "Grass and trees grow near both the Garden of Cultivation and a stone pavilion."
+            ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": [
+            "Grass and trees grow near both the Garden of Cultivation and a stone pavilion."
+        ]
+    },
+    "intent_template_id": 348,
+    "hop_cnt": 2,
+    "action_cnt": 6
+}

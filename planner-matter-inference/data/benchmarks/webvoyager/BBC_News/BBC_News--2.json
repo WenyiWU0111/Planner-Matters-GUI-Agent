@@ -1,0 +1,6 @@
+{
+    "intent": "Read the latest article regarding the environmental impacts of deforestation published within the last two days.",
+    "task_id": "BBC_News--2",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

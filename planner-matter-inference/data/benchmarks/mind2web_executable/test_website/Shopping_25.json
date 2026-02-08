@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 25, "start_url": "https://www.cars.com/", "intent": "Find recalls for the Alfa romeo 4C", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

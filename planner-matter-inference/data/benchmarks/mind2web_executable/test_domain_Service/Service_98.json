@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 98, "start_url": "https://www.drugs.com/", "intent": "Check drug interaction for melatonin and Folate Forte.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

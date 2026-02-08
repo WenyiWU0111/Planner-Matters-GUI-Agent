@@ -1,0 +1,6 @@
+{
+    "intent": "Discover three new and popular open-source NLP models for language translation released in the past month on Huggingface.",
+    "task_id": "Huggingface--2",
+    "site": "Huggingface",
+    "start_url": "https://huggingface.co/"
+}

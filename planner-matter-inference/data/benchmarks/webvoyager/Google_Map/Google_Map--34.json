@@ -1,0 +1,6 @@
+{
+    "intent": "Find a hiking trail within 2 miles of zip code 80202.",
+    "task_id": "Google_Map--34",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

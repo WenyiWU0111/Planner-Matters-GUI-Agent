@@ -1,0 +1,1 @@
+{"sites": ["Travel"], "task_id": 34, "start_url": "https://www.tripadvisor.com/", "intent": "Find a Hotel in New York City with lowest price possible for 2 adults this weekend (April 1st and 2nd).", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

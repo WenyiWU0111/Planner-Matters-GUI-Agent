@@ -1,0 +1,6 @@
+{
+    "intent": "Browse online degrees section on Coursera and list 3 Bachelor's degree programmes.",
+    "task_id": "Coursera--41",
+    "site": "Coursera",
+    "start_url": "https://www.coursera.org/"
+}

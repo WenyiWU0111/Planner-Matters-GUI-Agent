@@ -1,0 +1,6 @@
+{
+    "intent": "Look for the color options available for the newest iMac.",
+    "task_id": "Apple--33",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

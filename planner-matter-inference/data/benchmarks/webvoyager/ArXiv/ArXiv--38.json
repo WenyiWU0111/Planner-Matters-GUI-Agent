@@ -1,0 +1,6 @@
+{
+    "intent": "Find the ArXiv Blog on the ArXiv website and summarize the content of its latest article.",
+    "task_id": "ArXiv--38",
+    "site": "ArXiv",
+    "start_url": "https://arxiv.org/"
+}

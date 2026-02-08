@@ -1,0 +1,6 @@
+{
+    "intent": "List three hugging face docs. How many GitHub stars have they earned so far?",
+    "task_id": "Huggingface--33",
+    "site": "Huggingface",
+    "start_url": "https://huggingface.co/"
+}

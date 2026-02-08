@@ -1,0 +1,6 @@
+{
+    "intent": "Search for a vegetarian lasagna recipe that has at least a four-star rating and over 500 reviews.",
+    "task_id": "Allrecipes--6",
+    "site": "Allrecipes",
+    "start_url": "https://www.allrecipes.com/"
+}

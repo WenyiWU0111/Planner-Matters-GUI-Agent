@@ -1,0 +1,6 @@
+{
+    "intent": "Locate a travel guide book on Amazon for Japan, published in 2024, with at least 20 customer reviews.",
+    "task_id": "Amazon--39",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

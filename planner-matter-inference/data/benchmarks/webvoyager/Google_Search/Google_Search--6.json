@@ -1,0 +1,6 @@
+{
+    "intent": "Browse the monthly trending searches in Columbus.",
+    "task_id": "Google_Search--6",
+    "site": "Google_Search",
+    "start_url": "https://www.google.com/"
+}

@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 40, "start_url": "https://www.cars.com/", "intent": "Compare Audi A7 with Audi A6 both made in 2023 and hide similarities.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

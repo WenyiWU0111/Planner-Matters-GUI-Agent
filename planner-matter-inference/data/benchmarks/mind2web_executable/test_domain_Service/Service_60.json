@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 60, "start_url": "https://www.usps.com/", "intent": "Calculate the price to ship a large flat rate box from 77449 to 77084 at the first available date and time.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

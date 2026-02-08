@@ -1,0 +1,6 @@
+{
+    "intent": "Browse destinations on the Google Flights homepage from Seattle, look at destinations on a map, and recommend some famous places to travel that are within a reasonable distance and price.",
+    "task_id": "Google_Flights--40",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

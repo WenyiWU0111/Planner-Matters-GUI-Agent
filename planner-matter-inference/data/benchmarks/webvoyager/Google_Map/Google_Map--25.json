@@ -1,0 +1,6 @@
+{
+    "intent": "Search for a parking facility near the Fox Theater in Detroit that closes at night.",
+    "task_id": "Google_Map--25",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

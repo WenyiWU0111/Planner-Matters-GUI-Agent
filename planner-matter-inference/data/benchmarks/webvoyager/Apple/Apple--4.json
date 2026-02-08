@@ -1,0 +1,6 @@
+{
+    "intent": "How much does it cost to buy a Macbook pro, 16-inch, Apple M3 Max chip with 16-core CPU, 40-core GPU, 64GB unified memory, 1TB SSD.",
+    "task_id": "Apple--4",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

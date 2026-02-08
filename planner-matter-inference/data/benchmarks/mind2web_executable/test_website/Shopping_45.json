@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 45, "start_url": "https://www.bestbuy.com/", "intent": "Schedule a repair service for my gaming console closest to the zip code 10001 on March 24, anytime after 6 pm.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

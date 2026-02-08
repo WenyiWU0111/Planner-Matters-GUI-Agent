@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 88, "start_url": "https://www.healthline.com/", "intent": "Sign up for the Gut Check Challenge with the email address of buck19915@gmail.com.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

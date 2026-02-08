@@ -1,0 +1,6 @@
+{
+    "intent": "Find the Market Data section on BBC News and tell me which company the data comes from.",
+    "task_id": "BBC_News--28",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

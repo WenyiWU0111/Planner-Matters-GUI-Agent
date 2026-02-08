@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 20, "start_url": "https://ads.tiktok.com/business/creativecenter/music/pc/en", "intent": "Play a rock music from the artist zukisuzuki that can be used for tik tok series and usable  in helo, topbuzz.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

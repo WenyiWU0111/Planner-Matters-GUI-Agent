@@ -1,0 +1,6 @@
+{
+    "intent": "Read and summarise a recent story on BBC News about people being injured or killed in wars.",
+    "task_id": "BBC_News--40",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

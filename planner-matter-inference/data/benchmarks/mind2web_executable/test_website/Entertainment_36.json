@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 36, "start_url": "https://www.stubhub.com/", "intent": "Find $100 egift card which has Happy Birthday on it for myself and add to cart.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

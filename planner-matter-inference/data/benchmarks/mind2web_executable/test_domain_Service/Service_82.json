@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 82, "start_url": "https://www.bbb.org/", "intent": "Go to the US page to report a scam or fraud.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

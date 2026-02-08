@@ -1,0 +1,6 @@
+{
+    "intent": "Find 5 places that serve burgers near 44012 zip code and sort these 5 places by highest rating.",
+    "task_id": "Google_Map--12",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

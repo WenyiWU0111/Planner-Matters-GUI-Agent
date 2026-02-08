@@ -1,0 +1,6 @@
+{
+    "intent": "Search for a one-way flight from Mumbai to Vancouver on February 28, 2024, filtering the results to show only 1-stop flights.",
+    "task_id": "Google_Flights--23",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

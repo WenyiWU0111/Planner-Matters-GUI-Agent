@@ -1,0 +1,1 @@
+{"sites": ["Travel"], "task_id": 32, "start_url": "https://www.tripadvisor.com/", "intent": "Find the #1 rated \"Thing to do\" in Sedona, AZ", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

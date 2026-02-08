@@ -1,0 +1,33 @@
+{
+    "sites": [
+        "wikipedia"
+    ],
+    "task_id": 298,
+    "require_login": true,
+    "storage_state": "",
+    "start_url": "https://library.kiwix.org/viewer#wikipedia_en_all_maxi_2024-01/A/User%3AThe_other_Kiwix_guy/Landing",
+    "geolocation": null,
+    "intent_template": "Between a Maserati Quattroporte first generation and a Maserati Mistral 4000 Spyder, which car has more doors?",
+    "instantiation_dict": {},
+    "intent": "Between a Maserati Quattroporte first generation and a Maserati Mistral 4000 Spyder, which car has more doors?",
+    "require_reset": false,
+    "eval": {
+        "eval_types": [
+            "string_match"
+        ],
+        "reference_answers": {
+            "fuzzy_match": [
+                "A Maserati Quattroporte first generation has more doors than a Maserati Mistral 4000 Spyder."
+            ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": [
+            "A Maserati Quattroporte first generation has more doors than a Maserati Mistral 4000 Spyder."
+        ]
+    },
+    "intent_template_id": 348,
+    "hop_cnt": 2,
+    "action_cnt": 6
+}

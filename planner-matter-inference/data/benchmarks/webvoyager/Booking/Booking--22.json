@@ -1,0 +1,6 @@
+{
+    "intent": "Search for a hotel in Amsterdam with a customer review score of 9 or higher, offering bicycle rentals, for a week-long stay from March 15 to March 22, 2024, for two adults.",
+    "task_id": "Booking--22",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

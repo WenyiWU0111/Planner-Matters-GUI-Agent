@@ -1,0 +1,6 @@
+{
+    "intent": "Find updates for Apple Watch Series 7,8,9 on Apple's website.",
+    "task_id": "Apple--42",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

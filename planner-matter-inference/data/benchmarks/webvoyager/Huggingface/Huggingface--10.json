@@ -1,0 +1,6 @@
+{
+    "intent": "Open space: argilla/notux-chat-ui and interact with it by asking it 'which team trained you'. What is its answer.",
+    "task_id": "Huggingface--10",
+    "site": "Huggingface",
+    "start_url": "https://huggingface.co/"
+}

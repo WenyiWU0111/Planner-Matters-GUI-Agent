@@ -1,0 +1,6 @@
+{
+    "intent": "Browse Coursera, which universities and companies from Australia are partners of Coursera? List all of them.",
+    "task_id": "Coursera--38",
+    "site": "Coursera",
+    "start_url": "https://www.coursera.org/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Find the current number one artist on the Spotify Global Top 50 chart and list his/her top 10 songs as of now.",
+    "task_id": "Google_Search--30",
+    "site": "Google_Search",
+    "start_url": "https://www.google.com/"
+}

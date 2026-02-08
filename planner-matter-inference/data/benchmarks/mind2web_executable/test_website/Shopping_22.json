@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 22, "start_url": "https://www.bestbuy.com/", "intent": "Check the speccification of the best selling HP FHD laptop with 12gb ram and core i7 running on windows 11", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

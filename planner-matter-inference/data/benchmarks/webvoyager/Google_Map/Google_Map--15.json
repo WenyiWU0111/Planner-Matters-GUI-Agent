@@ -1,0 +1,6 @@
+{
+    "intent": "Find daytime only parking nearest to Madison Square Garden. Summarize what people are saying about it. ",
+    "task_id": "Google_Map--15",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

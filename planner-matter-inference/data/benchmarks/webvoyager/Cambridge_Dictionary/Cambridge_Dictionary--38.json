@@ -1,0 +1,6 @@
+{
+    "intent": "Go to the Plus section of Cambridge Dictionary, finish a recommended Grammar quiz without login and tell me your final score.",
+    "task_id": "Cambridge_Dictionary--38",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

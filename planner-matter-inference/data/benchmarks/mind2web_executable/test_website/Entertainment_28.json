@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 28, "start_url": "https://www.stubhub.com/", "intent": "Start the process to purchase a gift card.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

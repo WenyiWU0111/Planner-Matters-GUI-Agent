@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 3, "start_url": "https://www.healthgrades.com/", "intent": "Find a dentist who specializes in pediatric dentistry and is located near zip code 90210 (within 5 miles distance\n).", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

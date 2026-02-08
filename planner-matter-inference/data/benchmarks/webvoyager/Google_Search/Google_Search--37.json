@@ -1,0 +1,6 @@
+{
+    "intent": "Find the current top 3 super-earth planets and give a brief introduction to them.",
+    "task_id": "Google_Search--37",
+    "site": "Google_Search",
+    "start_url": "https://www.google.com/"
+}

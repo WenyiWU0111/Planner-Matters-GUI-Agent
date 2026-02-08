@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 24, "start_url": "https://www.stubhub.com/", "intent": "Find Taylor Swift's concert and select a ticket.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

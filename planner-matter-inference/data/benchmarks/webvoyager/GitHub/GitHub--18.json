@@ -1,0 +1,6 @@
+{
+    "intent": "Identify and report the most popular (in terms of stars) open-source image processing tool on GitHub.",
+    "task_id": "GitHub--18",
+    "site": "GitHub",
+    "start_url": "https://github.com/"
+}

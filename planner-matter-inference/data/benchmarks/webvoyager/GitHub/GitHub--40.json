@@ -1,0 +1,6 @@
+{
+    "intent": "Select Sign up on the GitHub homepage to see if email 'test123@gmail.com' already exists.",
+    "task_id": "GitHub--40",
+    "site": "GitHub",
+    "start_url": "https://github.com/"
+}

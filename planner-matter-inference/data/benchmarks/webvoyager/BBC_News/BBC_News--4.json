@@ -1,0 +1,6 @@
+{
+    "intent": "Find the latest article regarding the economic implications of climate change in Europe as reported by BBC News and summarize the central points.",
+    "task_id": "BBC_News--4",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

@@ -1,0 +1,1 @@
+{"sites": ["Travel"], "task_id": 41, "start_url": "https://www.trip.com/", "intent": "What are the Nearby Attractions from the top rated park attraction in hong kong?", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

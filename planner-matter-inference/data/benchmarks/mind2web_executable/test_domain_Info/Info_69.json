@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 69, "start_url": "https://www.apartments.com/", "intent": "Search for rentals in Corning, CA with a maximum price of $1500.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

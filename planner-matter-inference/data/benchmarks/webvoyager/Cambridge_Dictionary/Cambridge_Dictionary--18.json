@@ -1,0 +1,6 @@
+{
+    "intent": "Search for \"to behave well\" in Cambridge Dictionary's Thesaurus and see which synonyms the dictionary gives.",
+    "task_id": "Cambridge_Dictionary--18",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

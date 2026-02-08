@@ -1,0 +1,6 @@
+{
+    "intent": "Plan a trip from Boston Logan Airport to North Station.",
+    "task_id": "Google_Map--4",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

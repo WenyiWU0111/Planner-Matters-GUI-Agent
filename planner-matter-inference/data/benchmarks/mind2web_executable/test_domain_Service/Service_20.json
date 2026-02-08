@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 20, "start_url": "https://www.fedex.com/", "intent": "Look up tracking information for shipment #3023858502", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

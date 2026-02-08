@@ -1,0 +1,6 @@
+{
+    "intent": "Search for \"feel giddy\" in Cambridge Dictionary's Thesaurus and list the synonyms the dictionary provides.",
+    "task_id": "Cambridge_Dictionary--28",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

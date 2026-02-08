@@ -1,0 +1,6 @@
+{
+    "intent": "Find the art gallery that is nearest to Los Angeles Hindu Temple.",
+    "task_id": "Google_Map--9",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

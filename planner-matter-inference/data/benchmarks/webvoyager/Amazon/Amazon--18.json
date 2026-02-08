@@ -1,0 +1,6 @@
+{
+    "intent": "Open Amazon's home page and tell me what the deal is that is going on at the moment, list the names of at least 2 items that are on offer and tell me what percent off they are.",
+    "task_id": "Amazon--18",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

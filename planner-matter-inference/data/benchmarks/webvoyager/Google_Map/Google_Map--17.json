@@ -1,0 +1,6 @@
+{
+    "intent": "Search for locksmiths open now but not open 24 hours in Texas City.",
+    "task_id": "Google_Map--17",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

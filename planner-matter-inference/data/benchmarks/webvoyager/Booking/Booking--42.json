@@ -1,0 +1,6 @@
+{
+    "intent": "Search for a hotel in Hokkaido for the period March 1 to March 7, 2024, with a rating of 9+, check out its user reviews, which categories are greater than 9 and which are less than 9?",
+    "task_id": "Booking--42",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

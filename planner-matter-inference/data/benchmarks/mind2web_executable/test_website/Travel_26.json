@@ -1,0 +1,1 @@
+{"sites": ["Travel"], "task_id": 26, "start_url": "https://www.recreation.gov/", "intent": "Show me the rules and cancellation for Alley Spring.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 55, "start_url": "https://www.indeed.com/", "intent": "Check salaries for Biostatistician and select the company which pays highest and follow it.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

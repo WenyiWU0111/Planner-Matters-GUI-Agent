@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 12, "start_url": "https://cookpad.com/us", "intent": "Find a recipe for pad thai and print it", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

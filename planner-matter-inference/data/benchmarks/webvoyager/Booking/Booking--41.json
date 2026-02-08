@@ -1,0 +1,6 @@
+{
+    "intent": "Browse Booking's homepage to find out which company it belongs to.",
+    "task_id": "Booking--41",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

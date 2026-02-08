@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 34, "start_url": "https://www.coursera.org/", "intent": "Register to watch the webcast on developing Career ready student. My name is John Doe. My email is johndoe@gmail. I worked at UAI with a job title of Accounting", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

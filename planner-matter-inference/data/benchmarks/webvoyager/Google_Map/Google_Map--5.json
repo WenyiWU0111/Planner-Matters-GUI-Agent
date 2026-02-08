@@ -1,0 +1,6 @@
+{
+    "intent": "Search for a parking garage near Thalia Hall in Chicago that isn't open 24 hours.",
+    "task_id": "Google_Map--5",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Compare business class flight options from Lisbon to Singapore for a one-way trip on March 15, 2024, select one of the flights and see which websites offer its booking options. Which one is the cheapest.",
+    "task_id": "Google_Flights--34",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Find a round trip from Phoenix to Miami (Dec. 25th - Dec. 28th), show the First Class plane tickets for me that do not exceed $1320..",
+    "task_id": "Google_Flights--7",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

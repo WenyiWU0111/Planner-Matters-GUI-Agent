@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 35, "start_url": "https://www.stubhub.com/", "intent": "Search for four VIP tickets for the Harry Styles concert in Australia on Jul 8th.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 44, "start_url": "https://ohio.gov/", "intent": "Find the latest news article about Ohio Benefits and share it on Twitter", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

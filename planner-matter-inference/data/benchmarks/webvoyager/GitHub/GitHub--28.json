@@ -1,0 +1,6 @@
+{
+    "intent": "Identify the most starred JavaScript repositories on GitHub that were created after 2023-12-29.",
+    "task_id": "GitHub--28",
+    "site": "GitHub",
+    "start_url": "https://github.com/"
+}

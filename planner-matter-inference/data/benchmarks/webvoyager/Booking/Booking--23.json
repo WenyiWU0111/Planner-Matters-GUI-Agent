@@ -1,0 +1,6 @@
+{
+    "intent": "Identify a hotel in Tokyo with a spa and wellness center, rated 9 or above, with availability for a five-night stay starting on February 20, 2024. Check if free cancellation is offered.",
+    "task_id": "Booking--23",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

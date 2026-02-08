@@ -1,0 +1,6 @@
+{
+    "intent": "Find one word, one phase and one idiom related to euphoria in Cambridge Dictionary.",
+    "task_id": "Cambridge_Dictionary--13",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

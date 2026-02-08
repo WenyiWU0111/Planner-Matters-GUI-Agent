@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 34, "start_url": "https://shopping.google.com/", "intent": "Find size 8, black running shoes for men by Nike which are rated four stars and above and are currently on sale", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

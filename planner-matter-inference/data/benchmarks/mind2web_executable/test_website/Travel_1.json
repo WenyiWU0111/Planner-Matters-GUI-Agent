@@ -1,0 +1,1 @@
+{"sites": ["Travel"], "task_id": 1, "start_url": "https://www.recreation.gov/", "intent": "Check permit availability for a group of 4 in Brooks Camp, Katmai National Park on May 22", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 46, "start_url": "https://www.bestbuy.com/", "intent": "check trade in value for a gray galaxy s20 5G (Verizon) in good condition for an open box Samsung galaxy s21 plus.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

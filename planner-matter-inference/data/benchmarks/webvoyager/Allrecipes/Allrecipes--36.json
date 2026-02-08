@@ -1,0 +1,6 @@
+{
+    "intent": "Locate a recipe for an American apple pie on Allrecipes with a rating of at least 4 stars and more than 50 reviews. Note the maximum temperature mentioned in the Directions.",
+    "task_id": "Allrecipes--36",
+    "site": "Allrecipes",
+    "start_url": "https://www.allrecipes.com/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "How many NBA teams are there and list all the teams with 'New' in their name.",
+    "task_id": "ESPN--11",
+    "site": "ESPN",
+    "start_url": "https://www.espn.com/"
+}

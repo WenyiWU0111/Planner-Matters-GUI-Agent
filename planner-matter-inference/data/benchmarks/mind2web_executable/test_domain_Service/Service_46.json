@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 46, "start_url": "https://health.usnews.com/", "intent": "Open a list of pediatric dentists in Delaware.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

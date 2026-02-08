@@ -1,0 +1,6 @@
+{
+    "intent": "Search for the word \"nostalgia\" in the Cambridge Dictionary and report the translation of this word into Chinese.",
+    "task_id": "Cambridge_Dictionary--26",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Try a Cambridge Dictionary translation and tell me which company provided the translation.",
+    "task_id": "Cambridge_Dictionary--19",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

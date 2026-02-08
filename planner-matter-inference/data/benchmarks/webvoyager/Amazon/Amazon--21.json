@@ -1,0 +1,6 @@
+{
+    "intent": "Find a stainless steel, 12-cup programmable coffee maker on Amazon. The price range should be between $100 to $200. Report the one with the 4+ customer rating.",
+    "task_id": "Amazon--21",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

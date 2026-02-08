@@ -1,0 +1,6 @@
+{
+    "intent": "Search for an online course on Coursera about 'Digital Marketing', suitable for beginner-level learners. Specify the course duration, the main learning outcomes, and the institution offering the course.",
+    "task_id": "Coursera--21",
+    "site": "Coursera",
+    "start_url": "https://www.coursera.org/"
+}

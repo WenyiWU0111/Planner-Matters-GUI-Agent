@@ -1,0 +1,33 @@
+{
+    "sites": [
+        "wikipedia"
+    ],
+    "task_id": 219,
+    "require_login": true,
+    "storage_state": "",
+    "start_url": "https://library.kiwix.org/viewer#wikipedia_en_all_maxi_2024-01/A/User%3AThe_other_Kiwix_guy/Landing",
+    "geolocation": null,
+    "intent_template": "What's the shape of the China Museum of Art?",
+    "instantiation_dict": {},
+    "intent": "What's the shape of the China Museum of Art?",
+    "require_reset": false,
+    "eval": {
+        "eval_types": [
+            "string_match"
+        ],
+        "reference_answers": {
+            "fuzzy_match": [
+                "The China Museum of Art is an inverted pyramid."
+            ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": [
+            "The China Museum of Art is an inverted pyramid."
+        ]
+    },
+    "intent_template_id": 348,
+    "hop_cnt": 2,
+    "action_cnt": 6
+}

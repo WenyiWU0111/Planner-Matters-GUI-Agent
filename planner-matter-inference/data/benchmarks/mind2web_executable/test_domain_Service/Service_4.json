@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 4, "start_url": "https://www.healthgrades.com/", "intent": "Find a neurosurgeon who is over 50 years old and has an appointment available within 2 weeks.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

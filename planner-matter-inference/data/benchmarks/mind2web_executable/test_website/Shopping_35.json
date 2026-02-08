@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 35, "start_url": "https://shopping.google.com/", "intent": "Compare prices and find cheapest total price for Granitestone Sandwich Maker from stores which offer free delivery", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

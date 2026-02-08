@@ -1,0 +1,6 @@
+{
+    "intent": "Find Customer Stories on the GitHub page and list the 2 stories that appear on the web page.",
+    "task_id": "GitHub--33",
+    "site": "GitHub",
+    "start_url": "https://github.com/"
+}

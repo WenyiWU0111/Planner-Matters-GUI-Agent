@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 59, "start_url": "https://www.usps.com/", "intent": "Find the nearest location to zip code 54620 that offers size 4 P.O. Boxes.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

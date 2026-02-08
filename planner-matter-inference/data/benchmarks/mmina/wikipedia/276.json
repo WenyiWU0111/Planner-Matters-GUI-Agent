@@ -1,0 +1,33 @@
+{
+    "sites": [
+        "wikipedia"
+    ],
+    "task_id": 276,
+    "require_login": true,
+    "storage_state": "",
+    "start_url": "https://library.kiwix.org/viewer#wikipedia_en_all_maxi_2024-01/A/User%3AThe_other_Kiwix_guy/Landing",
+    "geolocation": null,
+    "intent_template": "Which entertainment feature was present at both the 2016 Summer Paralympics opening ceremony and 2006 Asian Games opening ceremony?",
+    "instantiation_dict": {},
+    "intent": "Which entertainment feature was present at both the 2016 Summer Paralympics opening ceremony and 2006 Asian Games opening ceremony?",
+    "require_reset": false,
+    "eval": {
+        "eval_types": [
+            "string_match"
+        ],
+        "reference_answers": {
+            "fuzzy_match": [
+                "There were fireworks at both the 2016 Summer Paralympics opening ceremony and 2006 Asian Games opening ceremony."
+            ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": [
+            "There were fireworks at both the 2016 Summer Paralympics opening ceremony and 2006 Asian Games opening ceremony."
+        ]
+    },
+    "intent_template_id": 348,
+    "hop_cnt": 2,
+    "action_cnt": 6
+}

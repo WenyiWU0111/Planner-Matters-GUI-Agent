@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 87, "start_url": "https://www.uhaul.com/", "intent": "Update from a 15' truck to a 20' truck and get new quote.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,6 @@
+{
+    "intent": "What is the latest news on ArXiv?",
+    "task_id": "ArXiv--8",
+    "site": "ArXiv",
+    "start_url": "https://arxiv.org/"
+}

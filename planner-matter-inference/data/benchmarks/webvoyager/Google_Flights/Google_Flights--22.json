@@ -1,0 +1,6 @@
+{
+    "intent": "Find a round-trip flight from Rio de Janeiro to Los Angeles, leaving on March 15, 2024, and returning on March 22, 2024, and select the option with the least carbon dioxide emissions.",
+    "task_id": "Google_Flights--22",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

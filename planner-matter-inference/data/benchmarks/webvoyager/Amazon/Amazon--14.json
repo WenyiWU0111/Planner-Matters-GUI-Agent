@@ -1,0 +1,6 @@
+{
+    "intent": "Find the new surge protector on Amazon with 6 to 8 outlets under 25 dollars with customer reviews above 4+ stars.",
+    "task_id": "Amazon--14",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Find a popular recipe for a chocolate chip cookie and list the ingredients and preparation steps.",
+    "task_id": "Allrecipes--7",
+    "site": "Allrecipes",
+    "start_url": "https://www.allrecipes.com/"
+}

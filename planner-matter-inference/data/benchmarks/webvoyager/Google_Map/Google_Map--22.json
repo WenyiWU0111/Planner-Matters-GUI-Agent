@@ -1,0 +1,6 @@
+{
+    "intent": "Find a Best Buy store near zip code 33139.",
+    "task_id": "Google_Map--22",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

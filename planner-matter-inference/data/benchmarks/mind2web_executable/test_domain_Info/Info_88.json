@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 88, "start_url": "https://www.udemy.com/", "intent": "Find javascript courses popular among beginners.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,6 @@
+{
+    "intent": "Look for the trending Python repositories on GitHub with most stars.",
+    "task_id": "GitHub--2",
+    "site": "GitHub",
+    "start_url": "https://github.com/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Check the release date and price for the latest version of the iPhone.",
+    "task_id": "Apple--5",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

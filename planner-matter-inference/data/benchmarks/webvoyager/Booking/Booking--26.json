@@ -1,0 +1,6 @@
+{
+    "intent": "Check Booking.com for a 3-star hotel or higher in Paris with a guest rating above 8.0 and available parking for dates February 20-23, 2024.",
+    "task_id": "Booking--26",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Find two different meanings of the word \"harmony\" in the Cambridge Dictionary.",
+    "task_id": "Cambridge_Dictionary--25",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

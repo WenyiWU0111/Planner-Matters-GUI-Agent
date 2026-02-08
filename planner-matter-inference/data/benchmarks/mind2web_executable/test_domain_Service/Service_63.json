@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 63, "start_url": "https://craigslist.org/", "intent": "Browse couches for sale, sort by cheapest and search in titles only.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

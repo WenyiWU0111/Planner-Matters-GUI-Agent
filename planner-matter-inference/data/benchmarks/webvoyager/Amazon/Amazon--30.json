@@ -1,0 +1,6 @@
+{
+    "intent": "Locate the highest-rated fiction book released in 2024 on Amazon, with a minimum of 50 customer reviews.",
+    "task_id": "Amazon--30",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

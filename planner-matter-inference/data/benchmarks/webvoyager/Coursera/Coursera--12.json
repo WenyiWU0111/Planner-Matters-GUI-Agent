@@ -1,0 +1,6 @@
+{
+    "intent": "Look for a Coursera course (not Specialization) that teaches Java programming basics.",
+    "task_id": "Coursera--12",
+    "site": "Coursera",
+    "start_url": "https://www.coursera.org/"
+}

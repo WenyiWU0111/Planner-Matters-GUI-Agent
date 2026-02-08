@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 62, "start_url": "https://craigslist.org/", "intent": "Browse job listings for a solar panel installer and hide duplicates", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

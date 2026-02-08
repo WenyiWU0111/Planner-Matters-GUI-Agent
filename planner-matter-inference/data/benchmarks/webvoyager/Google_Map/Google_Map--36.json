@@ -1,0 +1,6 @@
+{
+    "intent": "Identify 5 restaurants serving pizza near the 30309 zip code and rank them by their ratings.",
+    "task_id": "Google_Map--36",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

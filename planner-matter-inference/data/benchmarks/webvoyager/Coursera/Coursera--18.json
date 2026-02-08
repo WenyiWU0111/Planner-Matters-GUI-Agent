@@ -1,0 +1,6 @@
+{
+    "intent": "Identify a Coursera course that teaches JavaScript, which is beginner-friendly and includes a certificate upon completion.",
+    "task_id": "Coursera--18",
+    "site": "Coursera",
+    "start_url": "https://www.coursera.org/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Find a Mexico hotel with deals for December 25-26.",
+    "task_id": "Booking--0",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

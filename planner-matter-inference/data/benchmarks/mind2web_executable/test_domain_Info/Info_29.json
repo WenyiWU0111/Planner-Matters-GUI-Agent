@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 29, "start_url": "https://www.redfin.com/", "intent": "Find the latest 2 bed and 1.5 bath apartment listing for rent in New York.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

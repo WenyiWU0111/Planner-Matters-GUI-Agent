@@ -1,0 +1,33 @@
+{
+    "sites": [
+        "wikipedia"
+    ],
+    "task_id": 205,
+    "require_login": true,
+    "storage_state": "",
+    "start_url": "https://library.kiwix.org/viewer#wikipedia_en_all_maxi_2024-01/A/User%3AThe_other_Kiwix_guy/Landing",
+    "geolocation": null,
+    "intent_template": "Which insects main body is more zebra like; Dysphania percota or Ornithoptera chimaera?",
+    "instantiation_dict": {},
+    "intent": "Which insects main body is more zebra like; Dysphania percota or Ornithoptera chimaera?",
+    "require_reset": false,
+    "eval": {
+        "eval_types": [
+            "string_match"
+        ],
+        "reference_answers": {
+            "fuzzy_match": [
+                "The Dysphania percota has a body that is more zebra like, as it contains black stripes across a lighter colored body."
+            ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": [
+            "The Dysphania percota has a body that is more zebra like, as it contains black stripes across a lighter colored body."
+        ]
+    },
+    "intent_template_id": 348,
+    "hop_cnt": 2,
+    "action_cnt": 6
+}

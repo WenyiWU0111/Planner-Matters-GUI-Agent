@@ -1,0 +1,6 @@
+{
+    "intent": "Book a round-trip flight from San Francisco to Berlin, departing on March 5, 2024, and returning on March 12, 2024, and find the option with the shortest total travel time.",
+    "task_id": "Google_Flights--20",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

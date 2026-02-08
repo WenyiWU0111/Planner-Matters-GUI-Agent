@@ -1,0 +1,6 @@
+{
+    "intent": "Locate the latest report on BBC News about the impact of recent natural disasters in Asia and summarize the key points and areas affected.",
+    "task_id": "BBC_News--26",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

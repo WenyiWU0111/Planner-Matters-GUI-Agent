@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 75, "start_url": "https://www.mayoclinic.org/", "intent": "Find a female MD Cardiologist in Jacksonville, Florida.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 20, "start_url": "https://www.google.com/finance/", "intent": "Find key events of Microsoft stock.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 77, "start_url": "https://www.theweathernetwork.com/", "intent": "Look up the current temperature for zip code 10019.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

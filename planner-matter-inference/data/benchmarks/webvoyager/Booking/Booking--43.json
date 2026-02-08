@@ -1,0 +1,6 @@
+{
+    "intent": "Search for properties in Los Angeles, browse the results page to see what filters are available, list some of them.",
+    "task_id": "Booking--43",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

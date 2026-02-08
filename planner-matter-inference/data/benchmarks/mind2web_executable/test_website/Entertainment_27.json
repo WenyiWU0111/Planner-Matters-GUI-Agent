@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 27, "start_url": "https://www.stubhub.com/", "intent": "Find a NOFX ticket for a show in Austin, Texas on April 23 for 1 person.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

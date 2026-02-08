@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 29, "start_url": "https://www.stubhub.com/", "intent": "Find NHL events occurring in Boston.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

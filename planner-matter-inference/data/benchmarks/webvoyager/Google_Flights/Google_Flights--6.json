@@ -1,0 +1,6 @@
+{
+    "intent": "Search for a flight on December 19 and return on December 26 from Tel Aviv to Venice and Select First Class.",
+    "task_id": "Google_Flights--6",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "I need to choose a hotel in Shenzhen, please select date (6 March to 8 March 2024) and click the search button. How much it costs when convert the price to Chinese Yuan on the page.",
+    "task_id": "Booking--40",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

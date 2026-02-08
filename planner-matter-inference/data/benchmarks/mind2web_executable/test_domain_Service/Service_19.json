@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 19, "start_url": "https://www.ups.com/", "intent": "Get a quote for fastest shipping available for 5lbs of package from New York 10001 to California 96162.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

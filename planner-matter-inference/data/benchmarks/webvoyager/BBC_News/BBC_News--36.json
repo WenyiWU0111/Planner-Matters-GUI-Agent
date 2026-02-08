@@ -1,0 +1,6 @@
+{
+    "intent": "Look up recent articles in the Africa news section in World, summarize what topics most of these news are about",
+    "task_id": "BBC_News--36",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

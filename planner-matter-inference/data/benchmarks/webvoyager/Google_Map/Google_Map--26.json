@@ -1,0 +1,6 @@
+{
+    "intent": "Search for Los Angeles on Google Map, try to print the map as PDF and summarize the information on the map.",
+    "task_id": "Google_Map--26",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

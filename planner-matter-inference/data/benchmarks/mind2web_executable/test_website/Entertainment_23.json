@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 23, "start_url": "https://ads.tiktok.com/business/creativecenter/music/pc/en", "intent": "Browse the best Australian food songs.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

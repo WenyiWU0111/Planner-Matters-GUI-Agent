@@ -1,0 +1,6 @@
+{
+    "intent": "Find out the starting price for the most recent model of the iMac on the Apple website.",
+    "task_id": "Apple--24",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

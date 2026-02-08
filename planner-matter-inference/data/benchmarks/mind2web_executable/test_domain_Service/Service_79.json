@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 79, "start_url": "https://www.bbb.org/", "intent": "Open the page to learn more about how to get accredited.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

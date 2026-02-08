@@ -1,0 +1,6 @@
+{
+    "intent": "Find the maximum video recording resolution supported by the latest iPad mini on the Apple website.",
+    "task_id": "Apple--26",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

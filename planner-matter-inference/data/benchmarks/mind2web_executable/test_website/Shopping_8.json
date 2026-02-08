@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 8, "start_url": "https://www.macys.com/", "intent": "Find baby shoes under 20 dollars and rated 5 stars.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

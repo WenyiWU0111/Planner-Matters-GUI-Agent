@@ -1,0 +1,6 @@
+{
+    "intent": "Discover the latest C# repository on GitHub related to 'game development' and having over 150 stars, and describe its main features.",
+    "task_id": "GitHub--32",
+    "site": "GitHub",
+    "start_url": "https://github.com/"
+}

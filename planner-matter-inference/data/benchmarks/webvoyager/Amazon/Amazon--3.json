@@ -1,0 +1,6 @@
+{
+    "intent": "Find climbing gears and sort the results by price high to low. Answer the first 3 results after sorting.",
+    "task_id": "Amazon--3",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

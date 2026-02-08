@@ -1,0 +1,6 @@
+{
+    "intent": "Check the price for an Apple iPhone 14 Plus with 256GB storage in Purple color.",
+    "task_id": "Apple--20",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

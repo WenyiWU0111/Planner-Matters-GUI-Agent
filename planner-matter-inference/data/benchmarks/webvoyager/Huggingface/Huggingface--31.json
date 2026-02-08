@@ -1,0 +1,6 @@
+{
+    "intent": "Identify the latest machine learning model on Huggingface that specializes in detecting fake news, including the date of its last update.",
+    "task_id": "Huggingface--31",
+    "site": "Huggingface",
+    "start_url": "https://huggingface.co/"
+}

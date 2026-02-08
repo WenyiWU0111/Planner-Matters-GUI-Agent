@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 69, "start_url": "https://ohio.gov/", "intent": "Find the Hiring Guide to hire a small scale business", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

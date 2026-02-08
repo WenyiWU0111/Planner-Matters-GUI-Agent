@@ -1,0 +1,6 @@
+{
+    "intent": "Search for the latest news title about the NBA team the Los Angeles Lakers.",
+    "task_id": "Google_Search--2",
+    "site": "Google_Search",
+    "start_url": "https://www.google.com/"
+}

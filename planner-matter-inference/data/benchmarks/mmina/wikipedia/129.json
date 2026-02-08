@@ -1,0 +1,33 @@
+{
+    "sites": [
+        "shopping"
+    ],
+    "task_id": 129,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "https://library.kiwix.org/viewer#wikipedia_en_all_maxi_2024-01/A/User%3AThe_other_Kiwix_guy/Landing",
+    "geolocation": null,
+    "intent_template": "Are there buildings in Hangzhou that look like a golden sphere?",
+    "instantiation_dict": {},
+    "intent": "Are there buildings in Hangzhou that look like a golden sphere?",
+    "require_reset": false,
+    "eval": {
+        "eval_types": [
+            "string_match"
+        ],
+        "reference_answers": {
+            "fuzzy_match": [
+                "Yes."
+            ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": [
+            "Yes."
+        ]
+    },
+    "intent_template_id": 348,
+    "hop_cnt": 1,
+    "action_cnt": 3
+}

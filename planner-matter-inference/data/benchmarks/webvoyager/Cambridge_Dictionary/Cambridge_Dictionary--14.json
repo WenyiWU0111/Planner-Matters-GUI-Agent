@@ -1,0 +1,6 @@
+{
+    "intent": "Use the Cambridge Dictionary to find the pronunciation, definition, and one example sentence for the word \"concatenate\".",
+    "task_id": "Cambridge_Dictionary--14",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

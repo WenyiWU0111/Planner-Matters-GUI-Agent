@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 64, "start_url": "https://www.accuweather.com/", "intent": "Show me the wind flow map for Belo Horizonte", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,33 @@
+{
+    "sites": [
+        "wikipedia"
+    ],
+    "task_id": 294,
+    "require_login": true,
+    "storage_state": "",
+    "start_url": "https://library.kiwix.org/viewer#wikipedia_en_all_maxi_2024-01/A/User%3AThe_other_Kiwix_guy/Landing",
+    "geolocation": null,
+    "intent_template": "Which flowers, leaves look most like a fish; Erythronium umbilicatum or Itea virginica?",
+    "instantiation_dict": {},
+    "intent": "Which flowers, leaves look most like a fish; Erythronium umbilicatum or Itea virginica?",
+    "require_reset": false,
+    "eval": {
+        "eval_types": [
+            "string_match"
+        ],
+        "reference_answers": {
+            "fuzzy_match": [
+                "The flowers and leaves of Erythronium Umbilicatum look more like a fish than the flowers and leaves of Itea Virginica."
+            ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": [
+            "The flowers and leaves of Erythronium Umbilicatum look more like a fish than the flowers and leaves of Itea Virginica."
+        ]
+    },
+    "intent_template_id": 348,
+    "hop_cnt": 2,
+    "action_cnt": 6
+}

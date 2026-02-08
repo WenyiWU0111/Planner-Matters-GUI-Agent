@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 2, "start_url": "https://ads.tiktok.com/business/creativecenter/music/pc/en", "intent": "Show me the trending songs in canada for the last 30 days that are approved for business use", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

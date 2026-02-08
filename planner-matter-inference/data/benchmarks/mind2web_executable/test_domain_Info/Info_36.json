@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 36, "start_url": "https://www.coursera.org/", "intent": "search for a beginners course for data analyst in computer science looking for advertisement skills.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

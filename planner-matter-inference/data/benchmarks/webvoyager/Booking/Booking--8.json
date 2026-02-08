@@ -1,0 +1,6 @@
+{
+    "intent": "Get the hotel with highest review score and free cancelation in Chennai for 20/12/2023 - 21/12/2023.",
+    "task_id": "Booking--8",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

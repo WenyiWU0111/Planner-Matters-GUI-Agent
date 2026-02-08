@@ -1,0 +1,6 @@
+{
+    "intent": "Search for a set of non-stick, oven-safe cookware on Amazon. The set should include at least 10 pieces and be priced under $150.",
+    "task_id": "Amazon--22",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

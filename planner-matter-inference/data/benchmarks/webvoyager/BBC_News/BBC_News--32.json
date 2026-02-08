@@ -1,0 +1,6 @@
+{
+    "intent": "Find the artificial intelligence section, what is the top headline at this time, and which companies are involved?",
+    "task_id": "BBC_News--32",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

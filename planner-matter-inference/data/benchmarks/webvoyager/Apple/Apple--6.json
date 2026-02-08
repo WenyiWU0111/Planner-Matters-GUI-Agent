@@ -1,0 +1,6 @@
+{
+    "intent": "Find AirPods on Apple and how many types are currently available.",
+    "task_id": "Apple--6",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

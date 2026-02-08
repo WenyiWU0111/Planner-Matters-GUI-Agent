@@ -1,0 +1,6 @@
+{
+    "intent": "Identify the size and weight for the Apple TV 4K and list the Siri Remote features introduced.",
+    "task_id": "Apple--34",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

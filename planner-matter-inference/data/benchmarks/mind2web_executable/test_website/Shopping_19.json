@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 19, "start_url": "https://shopping.google.com/", "intent": "Search for running shoes for men and filter the results to show only those that are available in size 11.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

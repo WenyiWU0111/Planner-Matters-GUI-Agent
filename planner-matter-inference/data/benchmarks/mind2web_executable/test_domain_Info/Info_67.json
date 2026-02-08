@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 67, "start_url": "https://www.accuweather.com/", "intent": "Find the weather radar map for Miami.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

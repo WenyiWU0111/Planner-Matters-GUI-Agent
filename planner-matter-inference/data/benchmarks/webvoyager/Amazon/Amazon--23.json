@@ -1,0 +1,6 @@
+{
+    "intent": "Look for a men's waterproof digital sports watch with a heart rate monitor on Amazon. It should be priced between $50 to $100.",
+    "task_id": "Amazon--23",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

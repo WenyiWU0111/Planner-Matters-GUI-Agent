@@ -1,0 +1,6 @@
+{
+    "intent": "Locate a parking area in Salem and find a route from there to Marblehead, including map directions for better understanding.",
+    "task_id": "Google_Map--37",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

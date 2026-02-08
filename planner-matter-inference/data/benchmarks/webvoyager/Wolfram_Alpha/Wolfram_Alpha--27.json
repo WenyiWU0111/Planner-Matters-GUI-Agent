@@ -1,0 +1,6 @@
+{
+    "intent": "Display the thermal conductivity of Copper (Cu) and Aluminum (Al) at 25 degrees Celsius.",
+    "task_id": "Wolfram_Alpha--27",
+    "site": "Wolfram_Alpha",
+    "start_url": "https://www.wolframalpha.com/"
+}

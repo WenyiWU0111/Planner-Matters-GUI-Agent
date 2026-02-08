@@ -1,0 +1,6 @@
+{
+    "intent": "Identify the most downloaded English-Chinese (en-zh) machine translation model on Huggingface and report its latest performance metrics and usage guidelines.",
+    "task_id": "Huggingface--30",
+    "site": "Huggingface",
+    "start_url": "https://huggingface.co/"
+}

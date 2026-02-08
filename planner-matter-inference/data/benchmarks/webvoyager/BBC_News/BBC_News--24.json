@@ -1,0 +1,6 @@
+{
+    "intent": "Search the latest article about space exploration on BBC News and summarize its key points.",
+    "task_id": "BBC_News--24",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

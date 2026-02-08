@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 52, "start_url": "https://health.usnews.com/", "intent": "Show me the comparison of best meal kit services.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

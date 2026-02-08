@@ -1,0 +1,6 @@
+{
+    "intent": "Research the new features of the iOS 17 on Apple support and check its compatibility with the iPhone 12.",
+    "task_id": "Apple--1",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

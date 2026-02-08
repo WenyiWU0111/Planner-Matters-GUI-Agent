@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 58, "start_url": "https://www.indeed.com/", "intent": "Search for part-time administrative assistant jobs in Miami with a minimum salary of $40k.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,1 @@
+{"sites": ["Travel"], "task_id": 36, "start_url": "https://www.trip.com/", "intent": "Search for hotels in Tokyo for the weekend of May 19th that offer free breakfast and airport shuttle service.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

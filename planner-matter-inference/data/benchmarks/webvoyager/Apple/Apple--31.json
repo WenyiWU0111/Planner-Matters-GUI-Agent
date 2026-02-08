@@ -1,0 +1,6 @@
+{
+    "intent": "On Apple's website, what is the slogan for the latest Apple Watch Series.",
+    "task_id": "Apple--31",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

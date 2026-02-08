@@ -1,0 +1,6 @@
+{
+    "intent": "Find EV charging supported parking closest to Smithsonian museum.",
+    "task_id": "Google_Map--16",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

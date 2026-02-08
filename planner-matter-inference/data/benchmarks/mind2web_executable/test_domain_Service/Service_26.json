@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 26, "start_url": "https://www.ups.com/", "intent": "Get quotes for a 10lbs package Long Beach to Portland", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,6 @@
+{
+    "intent": "Search 'CVPR 2023' and 'CVPR2023' through journal ref on ArXiv to see how many results there are respectively.",
+    "task_id": "ArXiv--36",
+    "site": "ArXiv",
+    "start_url": "https://arxiv.org/"
+}

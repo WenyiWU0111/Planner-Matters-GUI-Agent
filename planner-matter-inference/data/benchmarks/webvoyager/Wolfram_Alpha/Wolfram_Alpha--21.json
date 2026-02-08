@@ -1,0 +1,6 @@
+{
+    "intent": "Calculate (1+0.1*i)^8 + (1\u22120.2*i)^8  where i is a complex number.",
+    "task_id": "Wolfram_Alpha--21",
+    "site": "Wolfram_Alpha",
+    "start_url": "https://www.wolframalpha.com/"
+}

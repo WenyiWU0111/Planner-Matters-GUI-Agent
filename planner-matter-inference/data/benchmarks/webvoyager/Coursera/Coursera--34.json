@@ -1,0 +1,6 @@
+{
+    "intent": "Find the course on Coursera named 'Essentials of Global Health'. Determine the instructor of this course and summarize his bio, note if there are any additional courses he offers on Coursera.",
+    "task_id": "Coursera--34",
+    "site": "Coursera",
+    "start_url": "https://www.coursera.org/"
+}

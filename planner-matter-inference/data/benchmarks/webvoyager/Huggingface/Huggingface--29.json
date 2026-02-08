@@ -1,0 +1,6 @@
+{
+    "intent": "Summarize the description of the recent open-source NLP model released on Hugging Face for medical summarization.",
+    "task_id": "Huggingface--29",
+    "site": "Huggingface",
+    "start_url": "https://huggingface.co/"
+}

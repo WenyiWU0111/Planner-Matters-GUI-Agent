@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 42, "start_url": "https://www.nba.com/", "intent": "Find out how many assists Chris Paul has been averaging in the current season.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

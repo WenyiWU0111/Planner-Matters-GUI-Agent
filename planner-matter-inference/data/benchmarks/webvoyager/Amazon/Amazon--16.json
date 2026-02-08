@@ -1,0 +1,6 @@
+{
+    "intent": "Find the Return Policy for Mens Rhinestone Skull Graphic Shirt on Amazon. Color: Black, Size: XX-Large. If Free return is avaliable, tell me how to return this item.",
+    "task_id": "Amazon--16",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

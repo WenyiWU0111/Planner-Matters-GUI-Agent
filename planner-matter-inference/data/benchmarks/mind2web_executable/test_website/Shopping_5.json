@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 5, "start_url": "https://www.bestbuy.com/", "intent": "find a silver steel watch with touch screen, water resistance, touch screen and google assistance support for currently on sale", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

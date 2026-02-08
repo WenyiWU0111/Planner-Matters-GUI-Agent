@@ -1,0 +1,1 @@
+{"sites": ["Travel"], "task_id": 43, "start_url": "https://www.tripadvisor.com/", "intent": "Find a Villa in Egypt for vacation rental", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 75, "start_url": "https://www.theweathernetwork.com/", "intent": "Find the humdity percentage for zip code 90028 for the next 36 hours.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

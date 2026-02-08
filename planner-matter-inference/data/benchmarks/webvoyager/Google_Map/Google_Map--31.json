@@ -1,0 +1,6 @@
+{
+    "intent": "First search New York's Central Park Zoo on Google Map, and then find the way to share the map.",
+    "task_id": "Google_Map--31",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

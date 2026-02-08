@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 93, "start_url": "https://www.healthgrades.com/", "intent": "Find the closest 5-star rated dentist to zip code 98011", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

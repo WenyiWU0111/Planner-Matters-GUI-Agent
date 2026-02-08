@@ -1,0 +1,6 @@
+{
+    "intent": "Search for a hotel in Berlin available for a three-night stay from March 15 to March 18, 2024, for one adult. Tell me the price in USD and CNY for the three-night stay.",
+    "task_id": "Booking--34",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

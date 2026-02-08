@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 74, "start_url": "https://www.theweathernetwork.com/", "intent": "Show me the weather forecast in Allenford during the weekend.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

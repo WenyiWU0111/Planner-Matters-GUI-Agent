@@ -1,0 +1,6 @@
+{
+    "intent": "Book a highly-rated hotel with a swimming pool and free WiFi near the Louvre Museum in Paris for the weekend of March 3-5, 2024.",
+    "task_id": "Booking--14",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

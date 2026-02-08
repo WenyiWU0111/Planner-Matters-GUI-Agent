@@ -1,0 +1,1 @@
+{"sites": ["Travel"], "task_id": 9, "start_url": "https://www.tripadvisor.com/", "intent": "Find a list of restaurants in Big Sur, CA with outdoor seating", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

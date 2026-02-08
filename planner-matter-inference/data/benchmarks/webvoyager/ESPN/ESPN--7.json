@@ -1,0 +1,6 @@
+{
+    "intent": "Retrieve the final score and a brief summary of the latest NBA game played by the Los Angeles Lakers as reported on ESPN.",
+    "task_id": "ESPN--7",
+    "site": "ESPN",
+    "start_url": "https://www.espn.com/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Read the latest health-related news article published on BBC News and summarize the key points discussed.",
+    "task_id": "BBC_News--1",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

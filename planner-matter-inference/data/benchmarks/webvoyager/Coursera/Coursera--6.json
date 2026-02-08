@@ -1,0 +1,6 @@
+{
+    "intent": "Identify a course on Coursera related to 'Artificial Intelligence for Healthcare' and note the course duration along with the number of quizzes in Assessments.",
+    "task_id": "Coursera--6",
+    "site": "Coursera",
+    "start_url": "https://www.coursera.org/"
+}

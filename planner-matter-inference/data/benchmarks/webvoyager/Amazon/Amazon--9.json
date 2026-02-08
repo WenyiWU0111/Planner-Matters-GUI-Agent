@@ -1,0 +1,6 @@
+{
+    "intent": "Find a dog bed on Amazon that is washable and has a length of at least 30 inches.",
+    "task_id": "Amazon--9",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

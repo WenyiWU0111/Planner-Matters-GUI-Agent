@@ -1,0 +1,6 @@
+{
+    "intent": "Look up the definition and both UK and US pronunciation of the word \"reverie,\" and provide an example sentence using the word from Cambridge Dictionary.",
+    "task_id": "Cambridge_Dictionary--24",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

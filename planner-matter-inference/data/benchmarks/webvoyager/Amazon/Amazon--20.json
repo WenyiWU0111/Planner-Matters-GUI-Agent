@@ -1,0 +1,6 @@
+{
+    "intent": "Search for a wireless ergonomic keyboard with backlighting and a rating of at least 4 stars. The price should be between $40 to $60. Save the product with the 500+ customer reviews.",
+    "task_id": "Amazon--20",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

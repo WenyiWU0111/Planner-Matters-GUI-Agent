@@ -1,0 +1,6 @@
+{
+    "intent": "Find a popular JavaScript repository created in the last 30 days on GitHub with a Readme file.",
+    "task_id": "GitHub--4",
+    "site": "GitHub",
+    "start_url": "https://github.com/"
+}

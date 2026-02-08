@@ -1,0 +1,6 @@
+{
+    "intent": "Identify the nearest bus stop to the corner of Elm Street and Oak Street in Massachusetts.",
+    "task_id": "Google_Map--21",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

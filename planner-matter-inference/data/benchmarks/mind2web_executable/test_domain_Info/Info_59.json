@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 59, "start_url": "https://www.indeed.com/", "intent": "View details of the self study online certification from a school rated 4 and above in a forklift through online classes with a duration of 30 to 60 minutes.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

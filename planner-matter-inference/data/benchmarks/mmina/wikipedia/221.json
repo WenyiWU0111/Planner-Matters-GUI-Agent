@@ -1,0 +1,33 @@
+{
+    "sites": [
+        "wikipedia"
+    ],
+    "task_id": 221,
+    "require_login": true,
+    "storage_state": "",
+    "start_url": "https://library.kiwix.org/viewer#wikipedia_en_all_maxi_2024-01/A/User%3AThe_other_Kiwix_guy/Landing",
+    "geolocation": null,
+    "intent_template": "What color are both domes on the Imam Husayn Shrine and the  Imam Ali Shrine?",
+    "instantiation_dict": {},
+    "intent": "What color are both domes on the Imam Husayn Shrine and the  Imam Ali Shrine?",
+    "require_reset": false,
+    "eval": {
+        "eval_types": [
+            "string_match"
+        ],
+        "reference_answers": {
+            "fuzzy_match": [
+                "Gold is the color used in both domes of the Imam Husayn Shrine and the Imam Ali Shrine."
+            ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": [
+            "Gold is the color used in both domes of the Imam Husayn Shrine and the Imam Ali Shrine."
+        ]
+    },
+    "intent_template_id": 348,
+    "hop_cnt": 2,
+    "action_cnt": 6
+}

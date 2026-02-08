@@ -1,0 +1,6 @@
+{
+    "intent": "Determine the area of a regular hexagon with a side length of 7 cm.",
+    "task_id": "Wolfram_Alpha--22",
+    "site": "Wolfram_Alpha",
+    "start_url": "https://www.wolframalpha.com/"
+}

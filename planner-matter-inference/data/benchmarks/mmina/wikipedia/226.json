@@ -1,0 +1,33 @@
+{
+    "sites": [
+        "wikipedia"
+    ],
+    "task_id": 226,
+    "require_login": true,
+    "storage_state": "",
+    "start_url": "https://library.kiwix.org/viewer#wikipedia_en_all_maxi_2024-01/A/User%3AThe_other_Kiwix_guy/Landing",
+    "geolocation": null,
+    "intent_template": "Which building contains fewer floors, San Marcos High School or the UNMSM Facultad de Ciencias Contables building?",
+    "instantiation_dict": {},
+    "intent": "Which building contains fewer floors, San Marcos High School or the UNMSM Facultad de Ciencias Contables building?",
+    "require_reset": false,
+    "eval": {
+        "eval_types": [
+            "string_match"
+        ],
+        "reference_answers": {
+            "fuzzy_match": [
+                "San Marcos High School has fewer floors than the UNMSM Facultad de Ciencias Contables building."
+            ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": [
+            "San Marcos High School has fewer floors than the UNMSM Facultad de Ciencias Contables building."
+        ]
+    },
+    "intent_template_id": 348,
+    "hop_cnt": 2,
+    "action_cnt": 6
+}

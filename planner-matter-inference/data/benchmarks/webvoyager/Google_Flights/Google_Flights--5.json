@@ -1,0 +1,6 @@
+{
+    "intent": "Find flights from Chicago to London on 20 December and return on 23 December.",
+    "task_id": "Google_Flights--5",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

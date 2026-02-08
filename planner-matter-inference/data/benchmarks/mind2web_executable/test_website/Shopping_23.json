@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 23, "start_url": "https://www.bestbuy.com/", "intent": "buy a $100 best bu gift card for a birthday", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

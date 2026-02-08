@@ -1,0 +1,6 @@
+{
+    "intent": "Find the final score from the most recent NFL game broadcast on ESPN, including the teams' names and the date of the match.",
+    "task_id": "ESPN--24",
+    "site": "ESPN",
+    "start_url": "https://www.espn.com/"
+}

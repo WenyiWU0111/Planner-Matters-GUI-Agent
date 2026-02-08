@@ -1,0 +1,6 @@
+{
+    "intent": "Find the cheapest round-trip flight option from New York City to Tokyo for a departure on January 10, 2024, and a return on January 24, 2024.",
+    "task_id": "Google_Flights--13",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

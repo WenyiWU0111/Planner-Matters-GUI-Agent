@@ -1,0 +1,6 @@
+{
+    "intent": "Browse the Coursera homepage and list at least three free courses.",
+    "task_id": "Coursera--37",
+    "site": "Coursera",
+    "start_url": "https://www.coursera.org/"
+}

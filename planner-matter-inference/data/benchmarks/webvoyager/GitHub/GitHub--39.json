@@ -1,0 +1,6 @@
+{
+    "intent": "Browse the GitHub Trending and find out which developer is currently ranked first this month and the corresponding repository.",
+    "task_id": "GitHub--39",
+    "site": "GitHub",
+    "start_url": "https://github.com/"
+}

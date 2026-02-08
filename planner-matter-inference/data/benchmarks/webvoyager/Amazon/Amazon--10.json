@@ -1,0 +1,6 @@
+{
+    "intent": "Find the cost of a 2-year protection for PS4 on Amazon.",
+    "task_id": "Amazon--10",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

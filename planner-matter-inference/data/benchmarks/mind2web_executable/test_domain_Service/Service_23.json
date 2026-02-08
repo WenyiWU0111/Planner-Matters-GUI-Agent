@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 23, "start_url": "https://www.healthline.com/", "intent": "Find the recommended dosage for Vivitrol", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,6 @@
+{
+    "intent": "Search for a recipe for Beef Wellington on Allrecipes that has at least 200 reviews and an average rating of 4.5 stars or higher.",
+    "task_id": "Allrecipes--8",
+    "site": "Allrecipes",
+    "start_url": "https://www.allrecipes.com/"
+}

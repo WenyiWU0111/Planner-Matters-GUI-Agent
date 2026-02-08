@@ -1,0 +1,6 @@
+{
+    "intent": "What Apple Repair ways are mentioned on apple website, answer 2 of them.",
+    "task_id": "Apple--12",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

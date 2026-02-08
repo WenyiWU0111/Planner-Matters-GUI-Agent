@@ -1,0 +1,1 @@
+{"sites": ["Travel"], "task_id": 29, "start_url": "https://www.tripadvisor.com/", "intent": "Find the shortest Duration Rail Tour in Tokyo, Japan between Aug 13-18", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

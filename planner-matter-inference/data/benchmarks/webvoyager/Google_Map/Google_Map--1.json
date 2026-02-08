@@ -1,0 +1,6 @@
+{
+    "intent": "Tell me one bus stop that is nearest to the intersection of main street and Amherst street in Altavista.",
+    "task_id": "Google_Map--1",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

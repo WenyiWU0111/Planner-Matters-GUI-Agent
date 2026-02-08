@@ -1,0 +1,6 @@
+{
+    "intent": "How many meanings of \"unblemished\" are given in Cambridge Dictionary? Please browse the page and give the number directly.",
+    "task_id": "Cambridge_Dictionary--17",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

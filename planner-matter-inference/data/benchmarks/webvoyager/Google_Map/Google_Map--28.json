@@ -1,0 +1,6 @@
+{
+    "intent": "Find the search settings for Google Map, what options are shown on that page?",
+    "task_id": "Google_Map--28",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

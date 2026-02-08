@@ -1,0 +1,6 @@
+{
+    "intent": "Find the cheapest available hotel room for a three night stay from 1st Jan in Jakarta. The room is for 2 adults, just answer the cheapest hotel room and the price.",
+    "task_id": "Booking--1",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

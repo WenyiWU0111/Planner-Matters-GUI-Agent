@@ -1,0 +1,6 @@
+{
+    "intent": "Find a hotel room on January 3-6 that is closest to National University of Singapore and costs less than $500",
+    "task_id": "Booking--7",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

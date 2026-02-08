@@ -1,0 +1,6 @@
+{
+    "intent": "Find a pair of mens running shoes in black, size 7, 4+ stars and under $100 and add them to my cart on Amazon.",
+    "task_id": "Amazon--15",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

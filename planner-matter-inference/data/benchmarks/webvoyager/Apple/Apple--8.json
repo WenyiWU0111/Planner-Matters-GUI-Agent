@@ -1,0 +1,6 @@
+{
+    "intent": "Identify and list the specifications of the latest iPad model released by Apple, including its storage options, processor type, and display features.",
+    "task_id": "Apple--8",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

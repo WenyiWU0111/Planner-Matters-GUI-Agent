@@ -1,0 +1,6 @@
+{
+    "intent": "Use Cambridge Dictionary to understand the use of articles ('a', 'an', 'the') in English Grammar, including examples of usage with both countable and uncountable nouns.",
+    "task_id": "Cambridge_Dictionary--37",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

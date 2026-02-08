@@ -1,0 +1,6 @@
+{
+    "intent": "Find a one-way flight from Prague to a city in Japan on March 20, 2024, which city in Japan is cheaper to go to, Tokyo or a certain city in Hokkaido?",
+    "task_id": "Google_Flights--39",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

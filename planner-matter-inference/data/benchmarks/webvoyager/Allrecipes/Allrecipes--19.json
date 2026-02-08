@@ -1,0 +1,6 @@
+{
+    "intent": "Find a vegan lasagna recipe on Allrecipes that requires 10 ingredients or less and has feedback of more than 200 reviews.",
+    "task_id": "Allrecipes--19",
+    "site": "Allrecipes",
+    "start_url": "https://www.allrecipes.com/"
+}

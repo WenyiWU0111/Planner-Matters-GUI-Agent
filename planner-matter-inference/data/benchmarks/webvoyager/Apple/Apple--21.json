@@ -1,0 +1,6 @@
+{
+    "intent": "Identify the available storage options for the latest iPad Pro on the Apple website.",
+    "task_id": "Apple--21",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

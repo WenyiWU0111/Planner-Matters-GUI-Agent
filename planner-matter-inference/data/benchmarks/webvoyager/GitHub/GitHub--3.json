@@ -1,0 +1,6 @@
+{
+    "intent": "Find out how much more package storage the Enterprise version has over Team in GitHub Pricing.",
+    "task_id": "GitHub--3",
+    "site": "GitHub",
+    "start_url": "https://github.com/"
+}

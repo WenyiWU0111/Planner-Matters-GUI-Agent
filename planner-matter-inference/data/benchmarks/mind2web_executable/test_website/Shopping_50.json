@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 50, "start_url": "https://www.bestbuy.com/", "intent": "Add a $50 Uber gift card to the cart", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

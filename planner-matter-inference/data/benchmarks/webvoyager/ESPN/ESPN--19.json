@@ -1,0 +1,6 @@
+{
+    "intent": "Who has the highest salary in Boston Celtics Roster 2023-24?",
+    "task_id": "ESPN--19",
+    "site": "ESPN",
+    "start_url": "https://www.espn.com/"
+}

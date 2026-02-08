@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 81, "start_url": "https://www.bbb.org/", "intent": "Find contact information for a  roofing contractor that specializes in bathroom remodel with A BBB rating near Hillsboro Oregon.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

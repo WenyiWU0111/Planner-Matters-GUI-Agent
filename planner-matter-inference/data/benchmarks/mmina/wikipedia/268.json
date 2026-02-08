@@ -1,0 +1,33 @@
+{
+    "sites": [
+        "wikipedia"
+    ],
+    "task_id": 268,
+    "require_login": true,
+    "storage_state": "",
+    "start_url": "https://library.kiwix.org/viewer#wikipedia_en_all_maxi_2024-01/A/User%3AThe_other_Kiwix_guy/Landing",
+    "geolocation": null,
+    "intent_template": "Which bird's long legs make it more suited to marshes and hunting for food there; Grus leucogeranus or Wood Warbler?",
+    "instantiation_dict": {},
+    "intent": "Which bird's long legs make it more suited to marshes and hunting for food there; Grus leucogeranus or Wood Warbler?",
+    "require_reset": false,
+    "eval": {
+        "eval_types": [
+            "string_match"
+        ],
+        "reference_answers": {
+            "fuzzy_match": [
+                "Grus leucogeranus's long legs make it more suited to marshes and hunting for food there."
+            ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": [
+            "Grus leucogeranus's long legs make it more suited to marshes and hunting for food there."
+        ]
+    },
+    "intent_template_id": 348,
+    "hop_cnt": 2,
+    "action_cnt": 6
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "On the Apple website, find out if the Mac Mini can be configured with a GPU larger than 16-core.",
+    "task_id": "Apple--28",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

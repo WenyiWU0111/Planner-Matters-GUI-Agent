@@ -1,0 +1,6 @@
+{
+    "intent": "Find The Most Popular Recipes of the 1960s, noting the recipe name, preparation time and total time of the second recipe in this collection.",
+    "task_id": "Allrecipes--10",
+    "site": "Allrecipes",
+    "start_url": "https://www.allrecipes.com/"
+}

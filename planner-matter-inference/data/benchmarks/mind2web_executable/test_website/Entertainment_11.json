@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 11, "start_url": "https://www.stubhub.com/", "intent": "Find out how to transfer NFL tickets to a friend.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

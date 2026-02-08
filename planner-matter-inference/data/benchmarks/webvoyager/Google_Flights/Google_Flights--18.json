@@ -1,0 +1,6 @@
+{
+    "intent": "Compare flight options from New York to Tokyo for a round trip leaving on January 25, 2024, and returning on February 15, 2024, for one adult. Prioritize the comparisons by the shortest travel time.",
+    "task_id": "Google_Flights--18",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

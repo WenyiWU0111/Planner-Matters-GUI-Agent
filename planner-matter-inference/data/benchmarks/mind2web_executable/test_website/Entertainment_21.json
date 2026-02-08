@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 21, "start_url": "https://ads.tiktok.com/business/creativecenter/music/pc/en", "intent": "Browse list of tiktok series songs longer than 60 seconds.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

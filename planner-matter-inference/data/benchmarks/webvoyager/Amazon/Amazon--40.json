@@ -1,0 +1,6 @@
+{
+    "intent": "Locate a women's yoga mat in purple, with a thickness of at least 5mm, rated 4+ stars, and priced under $30 on Amazon.",
+    "task_id": "Amazon--40",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

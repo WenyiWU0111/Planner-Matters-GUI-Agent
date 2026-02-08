@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 94, "start_url": "https://www.drugs.com/", "intent": "Browse the natural products database.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 80, "start_url": "https://www.bbb.org/", "intent": "Look for the best rated BBB accredited charity near 12023", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

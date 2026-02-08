@@ -1,0 +1,6 @@
+{
+    "intent": "Identify a course on Coursera named 'Introduction to Finance: The Basics', who is the course instructor and what other courses does he/she teach.",
+    "task_id": "Coursera--16",
+    "site": "Coursera",
+    "start_url": "https://www.coursera.org/"
+}

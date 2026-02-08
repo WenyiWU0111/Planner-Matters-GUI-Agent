@@ -1,0 +1,6 @@
+{
+    "intent": "Search for the next visible solar eclipse in North America and its expected date, and what about the one after that.",
+    "task_id": "Google_Search--38",
+    "site": "Google_Search",
+    "start_url": "https://www.google.com/"
+}

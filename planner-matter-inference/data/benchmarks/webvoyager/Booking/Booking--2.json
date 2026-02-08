@@ -1,0 +1,6 @@
+{
+    "intent": "Find a hotel in Ohio From December 20th to December 23th for 3 adults and 2 rooms.",
+    "task_id": "Booking--2",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

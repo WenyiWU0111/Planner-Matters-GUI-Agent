@@ -1,0 +1,59 @@
+Available actions:
+{
+    'name': 'click',
+    'arguments': {
+        'element_id': 'Valid numeric ID',
+        'description': 'Element description with its label number',
+        'reasoning': 'Why this action is needed'
+    }
+}
+{
+    'name': 'type',
+    'arguments': {
+        'text': 'Text to input',
+        'element_id': 'Valid numeric ID',
+        'field_description': 'Input field description with its label number',
+        'reasoning': 'Why this action is needed'
+    }
+}
+{
+    'name': 'press_key',
+    'arguments': {
+        'key': 'enter, delete, space',
+        'reasoning': 'Why this action is needed'
+    }
+}
+{
+    'name': 'scroll',
+    'arguments': {
+        'direction': 'up, down',
+        'reasoning': 'Why this action is needed'
+    }
+}
+{
+    'name': 'wait',
+    'arguments': {
+        'reasoning': 'Why waiting is needed'
+    }
+}
+{
+    'name': 'stop',
+    'arguments': {
+        'answer': 'Final answer to the task',
+        'reasoning': 'Why the task is completed'
+    }
+}
+{
+    'name': 'content_analyzer',
+    'arguments': {
+        'query': 'Information to find on the page',
+        'reasoning': 'Why analysis is needed'
+    }
+}
+{
+    'name': 'goto_url',
+    'arguments': {
+        'page_name': 'name of the website',
+        'reasoning': 'Why navigation is needed'
+    }
+}

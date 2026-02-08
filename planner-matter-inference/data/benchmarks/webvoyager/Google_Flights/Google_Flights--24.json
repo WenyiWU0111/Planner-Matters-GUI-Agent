@@ -1,0 +1,6 @@
+{
+    "intent": "Compare prices for economy class round-trip flights from Dubai to Rome, departing on March 1, 2024, and returning on March 8, 2024, and select the option with the fewest stops.",
+    "task_id": "Google_Flights--24",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

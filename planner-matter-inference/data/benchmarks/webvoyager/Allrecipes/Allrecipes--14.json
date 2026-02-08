@@ -1,0 +1,6 @@
+{
+    "intent": "Search for a recipe that includes \"chicken breast\" and \"quinoa\" with preparation time under 30 minutes on Allrecipes.",
+    "task_id": "Allrecipes--14",
+    "site": "Allrecipes",
+    "start_url": "https://www.allrecipes.com/"
+}

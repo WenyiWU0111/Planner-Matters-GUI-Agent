@@ -1,0 +1,6 @@
+{
+    "intent": "Check the Sports section for the result of the most recent Manchester United football match.",
+    "task_id": "BBC_News--31",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

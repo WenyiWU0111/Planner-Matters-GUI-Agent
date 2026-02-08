@@ -1,0 +1,6 @@
+{
+    "intent": "Search for a budget hotel in Rome under $100 per night for one adult from March 20 to March 23, 2024. Sort the results by price, identify if any of top three results offer breakfast.",
+    "task_id": "Booking--36",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

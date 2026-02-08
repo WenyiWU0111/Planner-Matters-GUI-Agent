@@ -1,0 +1,6 @@
+{
+    "intent": "Locate a hotel in Melbourne offering free parking and free WiFi, for a stay from February 28 to March 4, 2024.",
+    "task_id": "Booking--27",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

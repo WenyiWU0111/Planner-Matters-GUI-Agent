@@ -1,0 +1,6 @@
+{
+    "intent": "Search for a hotel in Lisbon with airport shuttle, rated 8.5 or above, available for a six-night stay from March 1 to March 7, 2024, for two adults, breakfast included.",
+    "task_id": "Booking--25",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

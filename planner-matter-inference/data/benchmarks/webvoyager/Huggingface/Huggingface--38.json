@@ -1,0 +1,6 @@
+{
+    "intent": "Investigate the 'transformers' library in the Hugging Face documentation, focusing on how to add new tokens to a tokenizer.",
+    "task_id": "Huggingface--38",
+    "site": "Huggingface",
+    "start_url": "https://huggingface.co/"
+}

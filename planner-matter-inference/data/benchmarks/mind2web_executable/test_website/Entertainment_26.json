@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 26, "start_url": "https://www.stubhub.com/", "intent": "Find tickets of Taylor Swift event in Las Vegas this month and book 2 lowest priced aisle seat.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

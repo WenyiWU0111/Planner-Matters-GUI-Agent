@@ -1,0 +1,6 @@
+{
+    "intent": "Find a bird feeder on Amazon suitable for small birds, with an anti-squirrel mechanism, and check if it's available with free shipping.",
+    "task_id": "Amazon--38",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Check if there are trade-in offers for the latest model of iPhone.",
+    "task_id": "Apple--18",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

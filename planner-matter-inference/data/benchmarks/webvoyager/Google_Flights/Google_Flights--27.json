@@ -1,0 +1,6 @@
+{
+    "intent": "Locate a one-way flight from Johannesburg to Toronto on March 30, 2024, for one adult, and analyze the price trends for the following month.",
+    "task_id": "Google_Flights--27",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

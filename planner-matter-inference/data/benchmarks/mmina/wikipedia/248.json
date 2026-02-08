@@ -1,0 +1,33 @@
+{
+    "sites": [
+        "wikipedia"
+    ],
+    "task_id": 248,
+    "require_login": true,
+    "storage_state": "",
+    "start_url": "https://library.kiwix.org/viewer#wikipedia_en_all_maxi_2024-01/A/User%3AThe_other_Kiwix_guy/Landing",
+    "geolocation": null,
+    "intent_template": "Which building has fewer floors directly above its entrance, the Savannah College of Art and Design or the Royal College of Art in London?",
+    "instantiation_dict": {},
+    "intent": "Which building has fewer floors directly above its entrance, the Savannah College of Art and Design or the Royal College of Art in London?",
+    "require_reset": false,
+    "eval": {
+        "eval_types": [
+            "string_match"
+        ],
+        "reference_answers": {
+            "fuzzy_match": [
+                "The Royal College of Art has fewer floors directly above its entrance than the Savannah College of Art and Design does."
+            ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": [
+            "The Royal College of Art has fewer floors directly above its entrance than the Savannah College of Art and Design does."
+        ]
+    },
+    "intent_template_id": 348,
+    "hop_cnt": 2,
+    "action_cnt": 6
+}

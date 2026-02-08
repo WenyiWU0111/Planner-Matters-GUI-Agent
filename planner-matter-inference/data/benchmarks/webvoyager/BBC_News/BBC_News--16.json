@@ -1,0 +1,6 @@
+{
+    "intent": "Identify the most recent development or update in Brexit negotiations as reported on BBC News and report the key points and any stated impacts on European economies.",
+    "task_id": "BBC_News--16",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

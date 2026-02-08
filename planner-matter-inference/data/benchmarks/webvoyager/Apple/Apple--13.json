@@ -1,0 +1,6 @@
+{
+    "intent": "How many colors does the latest MacBook Air come in?",
+    "task_id": "Apple--13",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

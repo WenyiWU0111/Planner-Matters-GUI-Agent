@@ -1,0 +1,6 @@
+{
+    "intent": "Search Apple for the accessory Smart Folio for iPad and check the closest pickup availability next to zip code 90038.",
+    "task_id": "Apple--17",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

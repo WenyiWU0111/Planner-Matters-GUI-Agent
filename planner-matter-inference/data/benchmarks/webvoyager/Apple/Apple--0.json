@@ -1,0 +1,6 @@
+{
+    "intent": "Compare the prices of the latest models of MacBook Air available on Apple's website.",
+    "task_id": "Apple--0",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

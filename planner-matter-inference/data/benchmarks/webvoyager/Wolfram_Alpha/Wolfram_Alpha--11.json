@@ -1,0 +1,6 @@
+{
+    "intent": "Show the electrical resistivity of UNS A92024 and UNS G10800 at 20 degrees Celsius.",
+    "task_id": "Wolfram_Alpha--11",
+    "site": "Wolfram_Alpha",
+    "start_url": "https://www.wolframalpha.com/"
+}

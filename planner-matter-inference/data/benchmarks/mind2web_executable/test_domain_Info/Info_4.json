@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 4, "start_url": "https://cookpad.com/us", "intent": "Show me recipes for pancakes with wheat and without beetroot.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

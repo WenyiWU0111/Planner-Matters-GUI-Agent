@@ -1,0 +1,1 @@
+{"sites": ["Travel"], "task_id": 25, "start_url": "https://www.tripadvisor.com/", "intent": "Find the cheapest 2 rooms in a five-star hotel with a pool in Jaipur for 4 people with a check-in time of June 2, and check-out of 5.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

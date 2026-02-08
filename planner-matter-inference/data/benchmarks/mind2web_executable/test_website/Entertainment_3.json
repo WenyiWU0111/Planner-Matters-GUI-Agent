@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 3, "start_url": "https://ads.tiktok.com/business/creativecenter/music/pc/en", "intent": "Play a song from the rock playlist.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

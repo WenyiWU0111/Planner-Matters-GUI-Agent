@@ -1,0 +1,6 @@
+{
+    "intent": "Compare the total Calories: whopper vs baconator vs big mac. Assume that each serving of food is 300g.",
+    "task_id": "Wolfram_Alpha--14",
+    "site": "Wolfram_Alpha",
+    "start_url": "https://www.wolframalpha.com/"
+}

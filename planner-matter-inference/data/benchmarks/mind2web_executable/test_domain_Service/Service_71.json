@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 71, "start_url": "https://www.mayoclinic.org/", "intent": "Find florida internship programs in the Mayo Clinic College of Medicine and Science", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

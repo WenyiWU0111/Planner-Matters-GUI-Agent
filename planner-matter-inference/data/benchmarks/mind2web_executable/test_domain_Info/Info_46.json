@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 46, "start_url": "https://www.apartments.com/", "intent": "Find a Single-Family House for Rent in Houston, Tx with 1 bed", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

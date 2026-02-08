@@ -1,0 +1,6 @@
+{
+    "intent": "Check the latest articles on ESPN for updates on any trades that occurred in the NBA within the past 2 days.",
+    "task_id": "ESPN--1",
+    "site": "ESPN",
+    "start_url": "https://www.espn.com/"
+}

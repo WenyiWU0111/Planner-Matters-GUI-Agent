@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 33, "start_url": "https://coinmarketcap.com/", "intent": "Download a JPEG image comparing the Dogecoin price to that of Bitcoin over the last year.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

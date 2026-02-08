@@ -1,0 +1,6 @@
+{
+    "intent": "Find the used Nintendo Switch Lite on Amazon then filter by 'Used - Good', tell me the cheapest one that is 'Used - Good'.",
+    "task_id": "Amazon--4",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

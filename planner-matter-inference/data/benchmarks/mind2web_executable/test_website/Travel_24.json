@@ -1,0 +1,1 @@
+{"sites": ["Travel"], "task_id": 24, "start_url": "https://www.tripadvisor.com/", "intent": "Find a vacation rental with 2 bedrooms and 2 bathrooms for the 15 to 20 June period, in Kanha National Park, India, and book the cheapest one.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

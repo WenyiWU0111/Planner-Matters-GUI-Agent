@@ -1,0 +1,6 @@
+{
+    "intent": "Find and browse Cambridge Dictionary Shop section, listing 3 items.",
+    "task_id": "Cambridge_Dictionary--41",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

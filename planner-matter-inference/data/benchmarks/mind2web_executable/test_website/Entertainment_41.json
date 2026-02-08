@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 41, "start_url": "https://ads.tiktok.com/business/creativecenter/music/pc/en", "intent": "Find me happy and food themed music in australia that don't last long than 20 seconds", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

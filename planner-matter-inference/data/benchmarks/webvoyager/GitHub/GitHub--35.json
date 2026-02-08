@@ -1,0 +1,6 @@
+{
+    "intent": "Check the latest release version of React and the date it was published on GitHub.",
+    "task_id": "GitHub--35",
+    "site": "GitHub",
+    "start_url": "https://github.com/"
+}

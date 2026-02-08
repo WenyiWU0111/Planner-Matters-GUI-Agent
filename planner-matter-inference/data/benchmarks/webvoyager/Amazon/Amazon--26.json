@@ -1,0 +1,6 @@
+{
+    "intent": "Find a portable Bluetooth speaker on Amazon with a water-resistant design, under $50. It should have a minimum battery life of 10 hours.",
+    "task_id": "Amazon--26",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

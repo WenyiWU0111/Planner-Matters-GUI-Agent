@@ -1,0 +1,6 @@
+{
+    "intent": "Search for a resort (not hotel) in Bali, detailing the available dates between March 20, 2024, and March 25, 2024, and checking any provided tour or cultural experiences.",
+    "task_id": "Booking--37",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

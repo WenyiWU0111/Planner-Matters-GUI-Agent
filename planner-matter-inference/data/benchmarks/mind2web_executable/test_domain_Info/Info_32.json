@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 32, "start_url": "https://www.apartments.com/", "intent": "search for senior housing in Boston, MA with two bathrooms and with a virtual tour.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,1 @@
+{"sites": ["Travel"], "task_id": 40, "start_url": "https://www.trip.com/", "intent": "Find a Hotel in New Yark for the dates Wed, 15 Mar to Thu, 16 Mar 1 room for 2 Adults providing 1 Bed with Breakfast and the rent payable at Hotelwith Instant confirmation and Free cancellation", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

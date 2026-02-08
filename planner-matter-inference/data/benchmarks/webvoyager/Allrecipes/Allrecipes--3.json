@@ -1,0 +1,6 @@
+{
+    "intent": "Locate a recipe for vegan chocolate chip cookies with over 60 reviews and a rating of at least 4.5 stars on Allrecipes.",
+    "task_id": "Allrecipes--3",
+    "site": "Allrecipes",
+    "start_url": "https://www.allrecipes.com/"
+}

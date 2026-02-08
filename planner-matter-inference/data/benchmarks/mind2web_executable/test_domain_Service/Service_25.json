@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 25, "start_url": "https://www.adoptapet.com/", "intent": "Search a young spayed male dog cared by a private owner within 50 miles of zip 33109.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

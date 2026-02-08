@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 65, "start_url": "https://www.accuweather.com/", "intent": "Show me the monthly weather forecast for florida city", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

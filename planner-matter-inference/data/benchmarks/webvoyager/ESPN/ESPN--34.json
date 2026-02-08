@@ -1,0 +1,6 @@
+{
+    "intent": "Visit ESPN to view the Philadelphia 76ers' latest injuries.",
+    "task_id": "ESPN--34",
+    "site": "ESPN",
+    "start_url": "https://www.espn.com/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Find and book a hotel in Paris with suitable accommodations for a family of four (two adults and two children) offering free cancellation for the dates of February 14-21, 2024.",
+    "task_id": "Booking--13",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

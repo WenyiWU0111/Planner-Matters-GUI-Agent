@@ -1,0 +1,33 @@
+{
+    "sites": [
+        "wikipedia"
+    ],
+    "task_id": 222,
+    "require_login": true,
+    "storage_state": "",
+    "start_url": "https://library.kiwix.org/viewer#wikipedia_en_all_maxi_2024-01/A/User%3AThe_other_Kiwix_guy/Landing",
+    "geolocation": null,
+    "intent_template": "Do the doors on either the Bricklin SV-1 Car or the Kaiser Darrin open in the same way as modern car doors do?",
+    "instantiation_dict": {},
+    "intent": "Do the doors on either the Bricklin SV-1 Car or the Kaiser Darrin open in the same way as modern car doors do?",
+    "require_reset": false,
+    "eval": {
+        "eval_types": [
+            "string_match"
+        ],
+        "reference_answers": {
+            "fuzzy_match": [
+                "No the doors on either the Bricklin SV-1 Car or the Kaiser Darrin don't open in the same way as modern car doors do."
+            ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": [
+            "No the doors on either the Bricklin SV-1 Car or the Kaiser Darrin don't open in the same way as modern car doors do."
+        ]
+    },
+    "intent_template_id": 348,
+    "hop_cnt": 2,
+    "action_cnt": 6
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Give 12 lbs of 4-cyanoindole, converted to molar and indicate the percentage of C, H, N.",
+    "task_id": "Wolfram_Alpha--8",
+    "site": "Wolfram_Alpha",
+    "start_url": "https://www.wolframalpha.com/"
+}

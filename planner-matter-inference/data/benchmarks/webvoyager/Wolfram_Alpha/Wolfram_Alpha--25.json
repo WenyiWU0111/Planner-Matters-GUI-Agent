@@ -1,0 +1,6 @@
+{
+    "intent": "Calculate the final position and velocity of a projectile launched at 45 degrees with an initial speed of 30 m/s after 3 seconds.",
+    "task_id": "Wolfram_Alpha--25",
+    "site": "Wolfram_Alpha",
+    "start_url": "https://www.wolframalpha.com/"
+}

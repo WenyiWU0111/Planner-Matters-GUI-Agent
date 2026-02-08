@@ -1,0 +1,6 @@
+{
+    "intent": "Locate the lowest-priced one-way flight from Tokyo to Sydney for an adult, departing on February 25, 2024, and include the flight duration and number of layovers.",
+    "task_id": "Google_Flights--21",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

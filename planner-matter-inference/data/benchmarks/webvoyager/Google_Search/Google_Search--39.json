@@ -1,0 +1,6 @@
+{
+    "intent": "Identify the top-10 trending travel destination for 2024 through a blog, how many of them are in Asian.",
+    "task_id": "Google_Search--39",
+    "site": "Google_Search",
+    "start_url": "https://www.google.com/"
+}

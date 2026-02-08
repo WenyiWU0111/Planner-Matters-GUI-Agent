@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 14, "start_url": "https://ads.tiktok.com/business/creativecenter/music/pc/en", "intent": "Use a tense music from BCD Studio in tik tok video editor", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

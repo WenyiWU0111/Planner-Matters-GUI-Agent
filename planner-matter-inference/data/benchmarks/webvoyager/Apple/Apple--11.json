@@ -1,0 +1,6 @@
+{
+    "intent": "Get information about the latest iPad model released by Apple, including its release date, base storage capacity, and starting price available on Apple's official website.",
+    "task_id": "Apple--11",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

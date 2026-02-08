@@ -1,0 +1,6 @@
+{
+    "intent": "Show me the list of baby products that are on sale and under 10 dollars on Amazon. Provide at least 2 on sale products",
+    "task_id": "Amazon--17",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

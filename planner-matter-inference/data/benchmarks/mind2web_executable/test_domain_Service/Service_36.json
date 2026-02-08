@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 36, "start_url": "https://www.thumbtack.com/", "intent": "Find a remote resume writer with a cover letter for an outdated resume for a senior with a manufacturing background, check the availability on April 20.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

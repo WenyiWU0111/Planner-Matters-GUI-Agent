@@ -1,0 +1,6 @@
+{
+    "intent": "Look up the definition, pronunciation (both UK and US), and find one example sentence for the word \"altruism\" in the Cambridge Dictionary.",
+    "task_id": "Cambridge_Dictionary--20",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Search for an open-source project related to 'climate change data visualization' on GitHub and report the project with the most stars.",
+    "task_id": "GitHub--0",
+    "site": "GitHub",
+    "start_url": "https://github.com/"
+}

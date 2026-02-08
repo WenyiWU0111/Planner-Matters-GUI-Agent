@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 9, "start_url": "https://cookpad.com/us", "intent": "Publish a tip that While Frying Onions adding salt will make it brown faster.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

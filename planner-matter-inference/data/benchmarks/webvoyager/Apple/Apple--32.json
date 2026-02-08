@@ -1,0 +1,6 @@
+{
+    "intent": "Investigate the trade-in value for an iPhone 11 Pro Max on Apple's website.",
+    "task_id": "Apple--32",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

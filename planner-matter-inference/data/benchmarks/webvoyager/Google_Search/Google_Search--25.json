@@ -1,0 +1,6 @@
+{
+    "intent": "Get the latest news headline about the English Premier League football club Manchester United.",
+    "task_id": "Google_Search--25",
+    "site": "Google_Search",
+    "start_url": "https://www.google.com/"
+}

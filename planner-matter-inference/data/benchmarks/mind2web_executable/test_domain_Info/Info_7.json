@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 7, "start_url": "https://cookpad.com/us", "intent": "Browse recipes for gluten-free chocolate chip cookies that can be made without nuts.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

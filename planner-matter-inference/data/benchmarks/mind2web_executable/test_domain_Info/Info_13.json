@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 13, "start_url": "https://www.theweathernetwork.com/", "intent": "Find the hours of sun for Vancouver, British Columbia for the next seven days.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

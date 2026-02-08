@@ -1,0 +1,6 @@
+{
+    "intent": "In the Culture section, identify the latest film release reviewed and provide a brief summary of the review.",
+    "task_id": "BBC_News--30",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

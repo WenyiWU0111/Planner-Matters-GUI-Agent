@@ -1,0 +1,6 @@
+{
+    "intent": "Find the paper 'GPT-4 Technical Report', when was v3 submitted?",
+    "task_id": "ArXiv--17",
+    "site": "ArXiv",
+    "start_url": "https://arxiv.org/"
+}

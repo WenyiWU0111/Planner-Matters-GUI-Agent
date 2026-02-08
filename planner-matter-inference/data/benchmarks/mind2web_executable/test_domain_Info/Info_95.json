@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 95, "start_url": "https://stocktwits.com/", "intent": "Find the current market price of AAPL stock and add it to your watchlist.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

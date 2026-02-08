@@ -1,0 +1,6 @@
+{
+    "intent": "Search for a natural reserve in Texas called Big Bend National Park and gather its Basic Information.",
+    "task_id": "Google_Map--35",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

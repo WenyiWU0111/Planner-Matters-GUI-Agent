@@ -1,0 +1,6 @@
+{
+    "intent": "How much does it cost to buy an ipad mini with 64GB storage and Wi-Fi + Cellular connectivity? (no engraving, no apple pencil, no smart folio, no apple trade-in).",
+    "task_id": "Apple--41",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

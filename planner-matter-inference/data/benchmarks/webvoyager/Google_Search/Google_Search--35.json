@@ -1,0 +1,6 @@
+{
+    "intent": "Look up the latest research paper related to black holes published in the journal \"Nature Astronomy\".",
+    "task_id": "Google_Search--35",
+    "site": "Google_Search",
+    "start_url": "https://www.google.com/"
+}

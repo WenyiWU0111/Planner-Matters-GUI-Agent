@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 5, "start_url": "https://www.healthgrades.com/", "intent": "Find telehealth resource center for womens health uti treatment birth control in New Orleans, and sign up for the newsletter with my email: buckeye.foobar@gmail.com", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 41, "start_url": "https://www.cars.com/", "intent": "Find me the cheapest Dodge Ram 1500 within 50 miles of 21122", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

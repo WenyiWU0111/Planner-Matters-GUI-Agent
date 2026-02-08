@@ -1,0 +1,6 @@
+{
+    "intent": "Find a news article on BBC News about the impact of the recent tech industry layoffs on the global economy. Summarize the key points and the name of the author, and provide the date of publication.",
+    "task_id": "BBC_News--14",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

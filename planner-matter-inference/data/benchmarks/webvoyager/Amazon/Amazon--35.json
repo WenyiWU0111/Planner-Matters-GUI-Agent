@@ -1,0 +1,6 @@
+{
+    "intent": "Find a men's leather wallet on Amazon with RFID blocking, at least 6 card slots, and priced below $50. Check if it's available for FREE delivery.",
+    "task_id": "Amazon--35",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

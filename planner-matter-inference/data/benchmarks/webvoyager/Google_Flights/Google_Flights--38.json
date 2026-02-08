@@ -1,0 +1,6 @@
+{
+    "intent": "Compare the prices and flight durations for economy class flights from Oslo to Dubai, departing on March 8, 2024, and show the options with no more than two layovers.",
+    "task_id": "Google_Flights--38",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

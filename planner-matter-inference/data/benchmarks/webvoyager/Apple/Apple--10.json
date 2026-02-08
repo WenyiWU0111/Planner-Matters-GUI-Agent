@@ -1,0 +1,6 @@
+{
+    "intent": "Find information on the latest (as of today's date) MacBook model, including its key features such as processor type, memory size, and storage capacity.",
+    "task_id": "Apple--10",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

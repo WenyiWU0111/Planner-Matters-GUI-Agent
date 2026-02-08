@@ -1,0 +1,6 @@
+{
+    "intent": "Check reviews for a Ride On Car with 100+ reviews & 4+ stars rating on Amazon. Give me the top review about this Ride On Car.",
+    "task_id": "Amazon--12",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

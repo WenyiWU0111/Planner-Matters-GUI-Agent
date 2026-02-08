@@ -1,0 +1,6 @@
+{
+    "intent": "Locate a baked salmon recipe on Allrecipes that has at least 50 reviews and a rating of 4.5 stars or higher. Note the primary seasoning or herb used and the estimated cooking time.",
+    "task_id": "Allrecipes--34",
+    "site": "Allrecipes",
+    "start_url": "https://www.allrecipes.com/"
+}

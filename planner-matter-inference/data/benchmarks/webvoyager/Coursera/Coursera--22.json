@@ -1,0 +1,6 @@
+{
+    "intent": "Identify a Specialization on Coursera that focuses on 'Human Resource', list the courses included in this Specialization, and the institution offering it.",
+    "task_id": "Coursera--22",
+    "site": "Coursera",
+    "start_url": "https://www.coursera.org/"
+}

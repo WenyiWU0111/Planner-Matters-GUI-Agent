@@ -1,0 +1,6 @@
+{
+    "intent": "Convert the Cambridge Dictionary homepage from English (UK) to Deutsch.",
+    "task_id": "Cambridge_Dictionary--42",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

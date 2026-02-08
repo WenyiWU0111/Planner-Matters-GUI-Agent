@@ -1,0 +1,6 @@
+{
+    "intent": "Find motorcycle parking near Radio City Music Hall.",
+    "task_id": "Google_Map--14",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

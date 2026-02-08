@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 56, "start_url": "https://www.indeed.com/", "intent": "Open the burger king interview questions page.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

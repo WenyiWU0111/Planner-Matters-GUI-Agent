@@ -1,0 +1,6 @@
+{
+    "intent": "Compare the maximum number of private repositories allowed in the Free and Pro plans in GitHub Pricing.",
+    "task_id": "GitHub--29",
+    "site": "GitHub",
+    "start_url": "https://github.com/"
+}

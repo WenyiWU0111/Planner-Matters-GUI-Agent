@@ -1,0 +1,6 @@
+{
+    "intent": "List the 3 features mentioned in GitHub's Copilot product page.",
+    "task_id": "GitHub--37",
+    "site": "GitHub",
+    "start_url": "https://github.com/"
+}

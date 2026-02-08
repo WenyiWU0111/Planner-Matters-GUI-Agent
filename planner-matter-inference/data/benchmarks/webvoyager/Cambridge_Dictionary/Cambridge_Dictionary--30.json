@@ -1,0 +1,6 @@
+{
+    "intent": "Find the grammar for present perfect simple uses in English, including examples of affirmative, negative, and interrogative sentences, on the Cambridge Dictionary website.",
+    "task_id": "Cambridge_Dictionary--30",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

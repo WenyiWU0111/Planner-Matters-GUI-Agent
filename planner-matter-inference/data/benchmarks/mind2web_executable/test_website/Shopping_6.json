@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 6, "start_url": "https://www.bestbuy.com/", "intent": "Search for NordicTrarck with the lowest price", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,6 @@
+{
+    "intent": "Search for round-trip flights from Stockholm to Toronto, departing on March 3, 2024, and returning on March 10, 2024, and sort the results to find the shortest total travel time.",
+    "task_id": "Google_Flights--32",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

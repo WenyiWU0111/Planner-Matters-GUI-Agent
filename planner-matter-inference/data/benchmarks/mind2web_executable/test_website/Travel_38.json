@@ -1,0 +1,1 @@
+{"sites": ["Travel"], "task_id": 38, "start_url": "https://www.trip.com/", "intent": "Show me Today's Top Deals on Hotels", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

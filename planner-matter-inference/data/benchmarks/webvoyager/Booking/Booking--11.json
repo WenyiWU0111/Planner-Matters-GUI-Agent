@@ -1,0 +1,6 @@
+{
+    "intent": "Reserve a hotel in downtown Chicago with a rating of 9 or higher for a stay from March 20-27, 2024, which offers free cancellation and includes a fitness center.",
+    "task_id": "Booking--11",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

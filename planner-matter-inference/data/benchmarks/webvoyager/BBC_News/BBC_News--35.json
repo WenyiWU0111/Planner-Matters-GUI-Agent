@@ -1,0 +1,6 @@
+{
+    "intent": "In the Asia section, browse and identify the most recent report about technological advancements and summarize its content.",
+    "task_id": "BBC_News--35",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

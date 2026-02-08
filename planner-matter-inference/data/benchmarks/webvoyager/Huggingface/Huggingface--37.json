@@ -1,0 +1,6 @@
+{
+    "intent": "Browse the daily paper on Hugging Face. What is the title of the first article, how many upvotes has it received, and is there any related model or data release?",
+    "task_id": "Huggingface--37",
+    "site": "Huggingface",
+    "start_url": "https://huggingface.co/"
+}

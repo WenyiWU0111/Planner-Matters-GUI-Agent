@@ -1,0 +1,6 @@
+{
+    "intent": "Search for the cheapest Hotel near Kashi Vishwanath Temple that offer breakfast from Dec 25th - Dec 26th.",
+    "task_id": "Booking--4",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

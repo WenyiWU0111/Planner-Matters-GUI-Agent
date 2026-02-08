@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 89, "start_url": "https://www.healthline.com/", "intent": "Take a newsletter subscription with my email id (buckeye.foobar@gmail.com) for Allergies and asthma, Anxiety and depression, nutrition, diabetes, breast cancer, and migraine with email id.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

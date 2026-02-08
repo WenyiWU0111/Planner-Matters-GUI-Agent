@@ -1,0 +1,6 @@
+{
+    "intent": "Browse ESPN to find out when the next game of the Los Angeles Lakers will start. Then navigate to the ticket purchasing website from ESPN, what is the cheapest ticket available.",
+    "task_id": "ESPN--35",
+    "site": "ESPN",
+    "start_url": "https://www.espn.com/"
+}

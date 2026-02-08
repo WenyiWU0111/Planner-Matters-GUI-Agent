@@ -1,0 +1,6 @@
+{
+    "intent": "List the benefits of hugging face classroom mentioned on Hugging face website.",
+    "task_id": "Huggingface--34",
+    "site": "Huggingface",
+    "start_url": "https://huggingface.co/"
+}

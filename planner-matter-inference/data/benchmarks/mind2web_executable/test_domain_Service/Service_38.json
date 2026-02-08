@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 38, "start_url": "https://www.fedex.com/", "intent": "Track freight shipment in the US with reference number 3345654345, account number 344565432, post code 44912 shipped on march 31st.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

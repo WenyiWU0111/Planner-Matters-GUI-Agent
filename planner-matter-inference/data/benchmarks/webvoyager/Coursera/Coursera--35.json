@@ -1,0 +1,6 @@
+{
+    "intent": "Find a Coursera course on Sustainable Agriculture practices, and detail the course's objectives and the background of the lead instructor.",
+    "task_id": "Coursera--35",
+    "site": "Coursera",
+    "start_url": "https://www.coursera.org/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Retrieve the final score from the most recent NBA game broadcast on ESPN, including the playing teams' names and the date of the match.",
+    "task_id": "ESPN--3",
+    "site": "ESPN",
+    "start_url": "https://www.espn.com/"
+}

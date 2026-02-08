@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 43, "start_url": "https://ohio.gov/", "intent": "Find the paper applicatn for the SNAP program", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

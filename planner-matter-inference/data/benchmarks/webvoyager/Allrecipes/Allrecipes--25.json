@@ -1,0 +1,6 @@
+{
+    "intent": "Find a popular quinoa salad recipe on Allrecipes with more than 500 reviews and a rating above 4 stars.",
+    "task_id": "Allrecipes--25",
+    "site": "Allrecipes",
+    "start_url": "https://www.allrecipes.com/"
+}

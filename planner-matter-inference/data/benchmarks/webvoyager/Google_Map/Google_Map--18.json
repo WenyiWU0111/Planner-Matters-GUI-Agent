@@ -1,0 +1,6 @@
+{
+    "intent": "Find a route between Chicago to Los Angeles, then print the route details.",
+    "task_id": "Google_Map--18",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Browse black strollers within $100 to $200 on Amazon. Then find one Among these black strollers with over 20,000 reviews and a rating greater than 4 star.",
+    "task_id": "Amazon--6",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

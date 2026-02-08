@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 42, "start_url": "https://www.cars.com/", "intent": "Find used audi 100 sorted by best deal.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,33 @@
+{
+    "sites": [
+        "wikipedia"
+    ],
+    "task_id": 224,
+    "require_login": true,
+    "storage_state": "",
+    "start_url": "https://library.kiwix.org/viewer#wikipedia_en_all_maxi_2024-01/A/User%3AThe_other_Kiwix_guy/Landing",
+    "geolocation": null,
+    "intent_template": "Which vehicle sits up higher off the ground, a 2015 Cadillac Escalade ESV or a Ferrari Enzo?",
+    "instantiation_dict": {},
+    "intent": "Which vehicle sits up higher off the ground, a 2015 Cadillac Escalade ESV or a Ferrari Enzo?",
+    "require_reset": false,
+    "eval": {
+        "eval_types": [
+            "string_match"
+        ],
+        "reference_answers": {
+            "fuzzy_match": [
+                "A 2015 Cadillac Escalade ESV sits up higher off the ground."
+            ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": [
+            "A 2015 Cadillac Escalade ESV sits up higher off the ground."
+        ]
+    },
+    "intent_template_id": 348,
+    "hop_cnt": 2,
+    "action_cnt": 6
+}

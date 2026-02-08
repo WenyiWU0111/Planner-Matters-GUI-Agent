@@ -1,0 +1,6 @@
+{
+    "intent": "Visit ArXiv Help on how to withdraw an article if the submission is not yet announced.",
+    "task_id": "ArXiv--10",
+    "site": "ArXiv",
+    "start_url": "https://arxiv.org/"
+}

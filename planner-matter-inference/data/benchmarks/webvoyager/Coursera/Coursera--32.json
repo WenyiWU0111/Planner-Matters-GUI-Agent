@@ -1,0 +1,6 @@
+{
+    "intent": "Search for 'Data Analysis' courses on Coursera. Apply filters to find courses that are 'Beginner Level' and have a duration ranging from 1 to 3 months. Determine the total count of courses that match these specifications.",
+    "task_id": "Coursera--32",
+    "site": "Coursera",
+    "start_url": "https://www.coursera.org/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Find Tesla Destination Charger closest to the National Air and Space Museum.",
+    "task_id": "Google_Map--20",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

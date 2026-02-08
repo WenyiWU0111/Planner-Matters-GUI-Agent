@@ -1,0 +1,6 @@
+{
+    "intent": "Find the lowest fare from all eligible one-way flights for 1 adult from JFK to Heathrow on Jan. 22.",
+    "task_id": "Google_Flights--2",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

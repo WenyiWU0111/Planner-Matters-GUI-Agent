@@ -1,0 +1,6 @@
+{
+    "intent": "What are the first 7 bits of the SHA of the Bert's latest commit on GitHub, and what exactly was changed in that commit.",
+    "task_id": "Google_Search--19",
+    "site": "Google_Search",
+    "start_url": "https://www.google.com/"
+}

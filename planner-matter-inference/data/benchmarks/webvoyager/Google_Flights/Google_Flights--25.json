@@ -1,0 +1,6 @@
+{
+    "intent": "Find a one-way business class flight from Buenos Aires to Amsterdam on March 10, 2024, and provide the details of the flight with the shortest duration.",
+    "task_id": "Google_Flights--25",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

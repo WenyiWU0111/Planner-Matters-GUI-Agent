@@ -1,0 +1,6 @@
+{
+    "intent": "Find the software requirements for iPhones that support AirDrop's ability to continue transmitting over the web when out of range.",
+    "task_id": "Google_Search--7",
+    "site": "Google_Search",
+    "start_url": "https://www.google.com/"
+}

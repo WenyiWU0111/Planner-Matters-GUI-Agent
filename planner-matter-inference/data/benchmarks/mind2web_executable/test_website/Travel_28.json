@@ -1,0 +1,1 @@
+{"sites": ["Travel"], "task_id": 28, "start_url": "https://www.trip.com/", "intent": "Book a cheapest bundle and save option for 2 adults from Ahmedabad to Dubai on April 5 with free cancellation options, hotel should be a 3 star near Burj Khalifa with guest rating above 4, one night", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

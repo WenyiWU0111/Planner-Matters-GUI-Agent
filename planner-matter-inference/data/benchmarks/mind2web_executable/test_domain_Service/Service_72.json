@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 72, "start_url": "https://www.mayoclinic.org/", "intent": "Find possible causes for the symptoms chest pain which is sharp which is accompanied by  anxiety.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

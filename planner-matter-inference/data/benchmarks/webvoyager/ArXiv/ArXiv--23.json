@@ -1,0 +1,6 @@
+{
+    "intent": "Determine how many articles with the keyword 'autonomous vehicles' were published in the 'Electrical Engineering and Systems Science' section of ArXiv yesterday.",
+    "task_id": "ArXiv--23",
+    "site": "ArXiv",
+    "start_url": "https://arxiv.org/"
+}

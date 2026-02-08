@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 100, "start_url": "https://www.linkedin.com/", "intent": "Find Customer Support or most related job in New York.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

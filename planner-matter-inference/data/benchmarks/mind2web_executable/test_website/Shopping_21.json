@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 21, "start_url": "https://www.bestbuy.com/", "intent": "Find a store near zip 30010 that provides authorized apple services for imacs and  make this one  my store.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

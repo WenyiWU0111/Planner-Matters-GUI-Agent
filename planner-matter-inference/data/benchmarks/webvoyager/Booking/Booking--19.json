@@ -1,0 +1,6 @@
+{
+    "intent": "Look for a hotel with customer ratings above an 8.0 in Paris, France for a weekend stay from March 18, 2024, to March 20, 2024, and list top three suggestions based on user reviews.",
+    "task_id": "Booking--19",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

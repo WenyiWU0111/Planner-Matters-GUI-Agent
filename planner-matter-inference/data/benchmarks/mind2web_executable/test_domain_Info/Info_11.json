@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 11, "start_url": "https://cookpad.com/us", "intent": "Save a hamburger recipe.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

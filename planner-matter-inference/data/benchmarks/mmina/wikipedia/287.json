@@ -1,0 +1,33 @@
+{
+    "sites": [
+        "wikipedia"
+    ],
+    "task_id": 287,
+    "require_login": true,
+    "storage_state": "",
+    "start_url": "https://library.kiwix.org/viewer#wikipedia_en_all_maxi_2024-01/A/User%3AThe_other_Kiwix_guy/Landing",
+    "geolocation": null,
+    "intent_template": "Is the white center line the same shape on Abby Road and on Avenue des Champs-\u00c9lys\u00e9es?",
+    "instantiation_dict": {},
+    "intent": "Is the white center line the same shape on Abby Road and on Avenue des Champs-\u00c9lys\u00e9es?",
+    "require_reset": false,
+    "eval": {
+        "eval_types": [
+            "string_match"
+        ],
+        "reference_answers": {
+            "fuzzy_match": [
+                "The white center line is not the same shape on Abby Road and on Avenue des Champs-\u00c9lys\u00e9es."
+            ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": [
+            "The white center line is not the same shape on Abby Road and on Avenue des Champs-\u00c9lys\u00e9es."
+        ]
+    },
+    "intent_template_id": 348,
+    "hop_cnt": 2,
+    "action_cnt": 6
+}

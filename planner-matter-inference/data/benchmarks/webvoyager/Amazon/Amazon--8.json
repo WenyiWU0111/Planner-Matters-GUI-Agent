@@ -1,0 +1,6 @@
+{
+    "intent": "Find the cheapest Samsung-made Android tablet with screen between 10-10.9 inches on Amazon. Only answer the cheapest one.",
+    "task_id": "Amazon--8",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

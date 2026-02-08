@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 40, "start_url": "https://ohio.gov/", "intent": "Find the list of Hunting Equipment allowed by the federal hunting law for hunting", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

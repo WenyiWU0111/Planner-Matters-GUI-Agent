@@ -1,0 +1,6 @@
+{
+    "intent": "What is the raw memory of a 100.2\" * 123.5\" true colour picture at 72 ppi?",
+    "task_id": "Wolfram_Alpha--42",
+    "site": "Wolfram_Alpha",
+    "start_url": "https://www.wolframalpha.com/"
+}

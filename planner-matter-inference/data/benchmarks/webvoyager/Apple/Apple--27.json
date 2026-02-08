@@ -1,0 +1,6 @@
+{
+    "intent": "On Apple's website, check if the HomePod mini in store is available in multiple colors and list them.",
+    "task_id": "Apple--27",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

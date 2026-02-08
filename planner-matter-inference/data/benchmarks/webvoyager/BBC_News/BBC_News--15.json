@@ -1,0 +1,6 @@
+{
+    "intent": "What does the current headline in Natural Wonders tell about.",
+    "task_id": "BBC_News--15",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

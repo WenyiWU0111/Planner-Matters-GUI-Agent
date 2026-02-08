@@ -1,0 +1,6 @@
+{
+    "intent": "Search for hotels in Rio de Janeiro from March 1-7, 2024, check the Brands filter to see which brand has the most hotels and which brand has the fewest.",
+    "task_id": "Booking--31",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "On Apple's website, what is the slogan for the Mac and what is the slogan for the Macbook pro.",
+    "task_id": "Apple--19",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

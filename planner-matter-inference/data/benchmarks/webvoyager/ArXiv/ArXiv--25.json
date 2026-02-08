@@ -1,0 +1,6 @@
+{
+    "intent": "Browse the ArXiv store and let me know how many different types of merchandise are available.",
+    "task_id": "ArXiv--25",
+    "site": "ArXiv",
+    "start_url": "https://arxiv.org/"
+}

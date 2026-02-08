@@ -1,0 +1,6 @@
+{
+    "intent": "Find a recipe for a cauliflower pizza crust that has a preparation time of under 30 minutes and a rating of at least 4 stars on Allrecipes.",
+    "task_id": "Allrecipes--20",
+    "site": "Allrecipes",
+    "start_url": "https://www.allrecipes.com/"
+}

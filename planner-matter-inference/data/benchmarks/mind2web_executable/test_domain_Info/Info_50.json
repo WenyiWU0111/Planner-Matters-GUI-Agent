@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 50, "start_url": "https://www.redfin.com/", "intent": "Fina a real estates agent job in Atlanta Georgia and apply.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

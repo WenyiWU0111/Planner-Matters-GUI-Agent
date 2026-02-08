@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 1, "start_url": "https://umich.edu/", "intent": "Find the way to give a gift to UM-Dearborn", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

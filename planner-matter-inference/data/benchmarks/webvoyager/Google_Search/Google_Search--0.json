@@ -1,0 +1,6 @@
+{
+    "intent": "Find the initial release date for Guardians of the Galaxy Vol. 3 the movie.",
+    "task_id": "Google_Search--0",
+    "site": "Google_Search",
+    "start_url": "https://www.google.com/"
+}

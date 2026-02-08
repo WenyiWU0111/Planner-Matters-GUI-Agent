@@ -1,0 +1,6 @@
+{
+    "intent": "Look up the submission guidelines on ArXiv for submitting a paper and tell me the formats for figures.",
+    "task_id": "ArXiv--30",
+    "site": "ArXiv",
+    "start_url": "https://arxiv.org/"
+}

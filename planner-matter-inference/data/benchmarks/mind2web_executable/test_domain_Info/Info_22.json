@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 22, "start_url": "https://www.google.com/finance/", "intent": "Create a new watch list called AI Stocks", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

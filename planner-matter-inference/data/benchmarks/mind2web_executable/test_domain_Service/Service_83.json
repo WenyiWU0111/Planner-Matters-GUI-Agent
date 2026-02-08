@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 83, "start_url": "https://www.bbb.org/", "intent": "Look up if the phone number 555555555 is a scam", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

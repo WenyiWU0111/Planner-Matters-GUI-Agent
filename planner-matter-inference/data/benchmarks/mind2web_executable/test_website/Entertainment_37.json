@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 37, "start_url": "https://www.stubhub.com/", "intent": "Show theatre events for Las Vegas and select one.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,6 @@
+{
+    "intent": "How many sports leagues can you choose from on the ESPN home page?",
+    "task_id": "ESPN--18",
+    "site": "ESPN",
+    "start_url": "https://www.espn.com/"
+}

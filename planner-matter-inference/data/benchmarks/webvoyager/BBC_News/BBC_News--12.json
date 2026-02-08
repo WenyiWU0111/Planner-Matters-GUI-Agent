@@ -1,0 +1,6 @@
+{
+    "intent": "Find a picture in the travel section that contains food, tell me what the food is called and what region it comes from.",
+    "task_id": "BBC_News--12",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

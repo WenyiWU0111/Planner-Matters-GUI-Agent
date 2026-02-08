@@ -1,0 +1,6 @@
+{
+    "intent": "Find information on ESPN about the top three scoring leaders in the NBA as of the last day of the regular season, and note which teams they play for.",
+    "task_id": "ESPN--8",
+    "site": "ESPN",
+    "start_url": "https://www.espn.com/"
+}

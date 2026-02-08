@@ -1,0 +1,6 @@
+{
+    "intent": "Browse the Coursera website and find the price required for one year of Coursera Plus. How much is the discount? Then list 3 companies that work with Coursera.",
+    "task_id": "Coursera--29",
+    "site": "Coursera",
+    "start_url": "https://www.coursera.org/"
+}

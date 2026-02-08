@@ -1,0 +1,6 @@
+{
+    "intent": "What is the approximate Heart Rate Reserve of a 50 year old man who has a heart rate of 60bpm at rest.",
+    "task_id": "Wolfram_Alpha--41",
+    "site": "Wolfram_Alpha",
+    "start_url": "https://www.wolframalpha.com/"
+}

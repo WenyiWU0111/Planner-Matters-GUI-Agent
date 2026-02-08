@@ -1,0 +1,6 @@
+{
+    "intent": "Find a AI-related story under Technology of Business. What is in the first picture in the story?",
+    "task_id": "BBC_News--7",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

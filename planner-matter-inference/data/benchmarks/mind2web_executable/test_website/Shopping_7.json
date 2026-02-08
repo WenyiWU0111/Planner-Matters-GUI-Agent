@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 7, "start_url": "https://www.bestbuy.com/", "intent": "search for 33 to 49inch Qled gaming monitor with 240hz refresh rate that is within $1000 to $2000", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

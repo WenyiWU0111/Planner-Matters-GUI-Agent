@@ -1,0 +1,6 @@
+{
+    "intent": "Find the wiki page of ohmyzsh on GitHub and tell me how to change the theme of zsh to agnoster.",
+    "task_id": "GitHub--23",
+    "site": "GitHub",
+    "start_url": "https://github.com/"
+}

@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 3, "start_url": "https://www.allrecipes.com/", "intent": "Find the latest Recall news and share it on Twitter.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

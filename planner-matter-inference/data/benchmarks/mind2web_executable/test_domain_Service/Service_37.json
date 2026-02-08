@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 37, "start_url": "https://www.akc.org/", "intent": "Find an energetic hairless dog with medium barking.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 54, "start_url": "https://shopping.google.com/", "intent": "Find wireless earbuds by Samsung and sort the results by Review Score.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

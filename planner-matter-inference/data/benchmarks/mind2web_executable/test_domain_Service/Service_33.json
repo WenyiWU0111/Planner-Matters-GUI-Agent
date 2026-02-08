@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 33, "start_url": "https://www.dmv.virginia.gov/", "intent": "Find the procedure to apply for Hunting and Fishing Licenses", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

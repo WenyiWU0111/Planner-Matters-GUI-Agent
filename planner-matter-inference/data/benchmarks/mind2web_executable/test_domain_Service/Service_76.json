@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 76, "start_url": "https://www.mayoclinic.org/", "intent": "What are the Symptoms and causes of fever?", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

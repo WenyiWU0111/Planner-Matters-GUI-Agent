@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 99, "start_url": "https://www.linkedin.com/", "intent": "Find Data Entry or similar jobs and save two of them.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

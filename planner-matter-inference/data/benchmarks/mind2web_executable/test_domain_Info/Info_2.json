@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 2, "start_url": "https://www.allrecipes.com/", "intent": "Open the reviews of a recipe with beef sirloin.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

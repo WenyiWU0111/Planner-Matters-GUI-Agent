@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 25, "start_url": "https://www.stubhub.com/", "intent": "Find upcoming celine dion concerts happening and if any show is happening in france book 3 golden circle paper tickets. Show price with fees when booking.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

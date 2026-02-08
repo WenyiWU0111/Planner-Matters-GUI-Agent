@@ -1,0 +1,6 @@
+{
+    "intent": "Look up the definition of \"cryptocurrency\" on Cambridge Dictionary, provide the pronunciation, and use it in two example sentences that illustrate different contexts.",
+    "task_id": "Cambridge_Dictionary--16",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

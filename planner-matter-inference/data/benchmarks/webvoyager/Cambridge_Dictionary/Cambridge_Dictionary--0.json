@@ -1,0 +1,6 @@
+{
+    "intent": "Look up the pronunciation and definition of the word \"sustainability\" on the Cambridge Dictionary.",
+    "task_id": "Cambridge_Dictionary--0",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

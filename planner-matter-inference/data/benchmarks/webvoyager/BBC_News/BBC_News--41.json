@@ -1,0 +1,6 @@
+{
+    "intent": "Find Golf in BBC News, check the Leaderboard at this point in Women's Majors and count which country has the most players in the top 20? Which player has the best score amongst the Australian players and in what place.",
+    "task_id": "BBC_News--41",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

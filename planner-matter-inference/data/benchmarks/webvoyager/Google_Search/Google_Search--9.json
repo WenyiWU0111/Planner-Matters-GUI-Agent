@@ -1,0 +1,6 @@
+{
+    "intent": "Show the rating of Prometheus movie on IMDb and Rotten Tomatoes.",
+    "task_id": "Google_Search--9",
+    "site": "Google_Search",
+    "start_url": "https://www.google.com/"
+}

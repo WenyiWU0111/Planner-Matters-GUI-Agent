@@ -1,0 +1,6 @@
+{
+    "intent": "Retrieve an example of a pre-trained model on Hugging Face that is optimized for question answering tasks and detail the languages it supports.",
+    "task_id": "Huggingface--28",
+    "site": "Huggingface",
+    "start_url": "https://huggingface.co/"
+}

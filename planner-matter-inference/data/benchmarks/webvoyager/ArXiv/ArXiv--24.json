@@ -1,0 +1,6 @@
+{
+    "intent": "Identify the most recent paper related to 'graph neural networks' on ArXiv and determine the affiliation of the first author.",
+    "task_id": "ArXiv--24",
+    "site": "ArXiv",
+    "start_url": "https://arxiv.org/"
+}

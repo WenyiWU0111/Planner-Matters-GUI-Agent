@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 51, "start_url": "https://health.usnews.com/", "intent": "Find Noom Diet recipes, health & Nutrition and experts review", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

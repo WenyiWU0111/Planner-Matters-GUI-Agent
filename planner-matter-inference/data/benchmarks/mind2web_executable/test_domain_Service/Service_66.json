@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 66, "start_url": "https://www.babycenter.com/", "intent": "Calculate my next menstruation date with my last circle being on 16th March for 22days.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

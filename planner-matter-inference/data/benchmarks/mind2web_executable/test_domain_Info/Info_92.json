@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 92, "start_url": "https://www.apartments.com/", "intent": "Check the Rules and Regulation in Kentucky for Landlords and Tenants.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

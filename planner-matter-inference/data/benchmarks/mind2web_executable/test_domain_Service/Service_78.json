@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 78, "start_url": "https://www.bbb.org/", "intent": "Open the reviews for a Mc Donald's.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

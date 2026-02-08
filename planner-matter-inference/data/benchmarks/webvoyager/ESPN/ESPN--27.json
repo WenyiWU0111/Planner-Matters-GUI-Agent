@@ -1,0 +1,6 @@
+{
+    "intent": "Search on ESPN for how many teams have 'Golden' in their name and how many of them are in the NHL.",
+    "task_id": "ESPN--27",
+    "site": "ESPN",
+    "start_url": "https://www.espn.com/"
+}

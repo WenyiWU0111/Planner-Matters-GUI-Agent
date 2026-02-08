@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 48, "start_url": "https://shopping.google.com/", "intent": "Find electric coffee grinders and filter the results to show only those with a capacity of 4 - 6.4 oz", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

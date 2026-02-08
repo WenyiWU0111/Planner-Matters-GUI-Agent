@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 15, "start_url": "https://www.adoptapet.com/", "intent": "Search for adoptable pets near 21122 zip code.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,6 @@
+{
+    "intent": "Check the leaderboard for Golf's DP World Tour in the SPORT section, what was the name of the most recent tournament, and how many teams have a Total of -10 strokes.",
+    "task_id": "BBC_News--3",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

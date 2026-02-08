@@ -1,0 +1,6 @@
+{
+    "intent": "What is the current Text-to-3D model with the highest number of downloads and tell me are there Spaces that use the model.",
+    "task_id": "Huggingface--41",
+    "site": "Huggingface",
+    "start_url": "https://huggingface.co/"
+}

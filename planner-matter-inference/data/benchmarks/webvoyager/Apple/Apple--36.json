@@ -1,0 +1,6 @@
+{
+    "intent": "Browse Apple Music on the entertainment section of the Apple's website, and see which singers' names are included in the pictures on this page.",
+    "task_id": "Apple--36",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

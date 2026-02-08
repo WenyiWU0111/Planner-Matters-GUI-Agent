@@ -1,0 +1,6 @@
+{
+    "intent": "Find a pet-friendly hotel with parking available in downtown Toronto for the stay of February 24-26, 2024.",
+    "task_id": "Booking--39",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

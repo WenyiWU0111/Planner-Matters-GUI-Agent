@@ -1,0 +1,33 @@
+{
+    "sites": [
+        "wikipedia"
+    ],
+    "task_id": 293,
+    "require_login": true,
+    "storage_state": "",
+    "start_url": "https://library.kiwix.org/viewer#wikipedia_en_all_maxi_2024-01/A/User%3AThe_other_Kiwix_guy/Landing",
+    "geolocation": null,
+    "intent_template": "Between the White Ginger Lily and the Bellis perennis-P\u00e2querette-Fleur, which flower has more petals?",
+    "instantiation_dict": {},
+    "intent": "Between the White Ginger Lily and the Bellis perennis-P\u00e2querette-Fleur, which flower has more petals?",
+    "require_reset": false,
+    "eval": {
+        "eval_types": [
+            "string_match"
+        ],
+        "reference_answers": {
+            "fuzzy_match": [
+                "Bellis perennis-P\u00e2querette-Fleur has more petals than the White Ginger Lily does."
+            ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": [
+            "Bellis perennis-P\u00e2querette-Fleur has more petals than the White Ginger Lily does."
+        ]
+    },
+    "intent_template_id": 348,
+    "hop_cnt": 2,
+    "action_cnt": 6
+}

@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 34, "start_url": "https://www.stubhub.com/", "intent": "Browse floor tickets to the Los Angeles Lakers vs Memphis Grizzlies game on April 22nd.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

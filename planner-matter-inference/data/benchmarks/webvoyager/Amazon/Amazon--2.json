@@ -1,0 +1,6 @@
+{
+    "intent": "Find a gaming desktop with Windows 11 Home, and the disk size should be 1TB.",
+    "task_id": "Amazon--2",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

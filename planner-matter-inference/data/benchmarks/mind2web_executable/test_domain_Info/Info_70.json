@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 70, "start_url": "https://www.apartments.com/", "intent": "Add Elevate at Chicago IL to Favorites and show virtual tour.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

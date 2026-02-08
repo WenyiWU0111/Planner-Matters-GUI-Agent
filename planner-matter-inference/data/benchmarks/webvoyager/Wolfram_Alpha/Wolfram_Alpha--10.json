@@ -1,0 +1,6 @@
+{
+    "intent": "Give the geomagnetic field on June 20, 2023 in Oslo.",
+    "task_id": "Wolfram_Alpha--10",
+    "site": "Wolfram_Alpha",
+    "start_url": "https://www.wolframalpha.com/"
+}

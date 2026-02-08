@@ -1,0 +1,6 @@
+{
+    "intent": "Find a Blue iPhone 12 Pro 128gb and add to cart.",
+    "task_id": "Amazon--5",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

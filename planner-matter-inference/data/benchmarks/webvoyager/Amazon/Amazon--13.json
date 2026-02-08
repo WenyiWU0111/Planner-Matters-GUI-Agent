@@ -1,0 +1,6 @@
+{
+    "intent": "Browse best selling black hoodies in mens size Big and Tall that is between $25 and $50 on Amazon.",
+    "task_id": "Amazon--13",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

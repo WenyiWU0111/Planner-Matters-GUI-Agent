@@ -1,0 +1,1 @@
+{"sites": ["Travel"], "task_id": 35, "start_url": "https://www.trip.com/", "intent": "Browse nonstop flights from London to New York City from Jun 1st to July 15th.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

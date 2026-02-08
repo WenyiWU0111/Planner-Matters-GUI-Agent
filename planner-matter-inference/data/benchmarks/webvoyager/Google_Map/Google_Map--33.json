@@ -1,0 +1,6 @@
+{
+    "intent": "Check out Denver International Airport's information and tell me: 1) which level has the least proportion in reviews; 2) what are its Accessibility and Amenities.",
+    "task_id": "Google_Map--33",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

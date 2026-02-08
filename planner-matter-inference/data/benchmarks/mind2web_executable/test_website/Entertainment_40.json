@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 40, "start_url": "https://ads.tiktok.com/business/creativecenter/music/pc/en", "intent": "Search for an electronic song that has the word dance on its name for tik tok commercial use, it has to be over 60 seconds", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

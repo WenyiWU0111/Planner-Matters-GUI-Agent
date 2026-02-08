@@ -1,0 +1,6 @@
+{
+    "intent": "Get a brief overview of the economic implications of the UK's latest trade deal posted on BBC News and the date when the article was published.",
+    "task_id": "BBC_News--8",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

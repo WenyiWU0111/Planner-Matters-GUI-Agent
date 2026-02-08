@@ -1,0 +1,6 @@
+{
+    "intent": "Locate a queen-sized bedspread on Amazon with a floral pattern, and check if it's available in blue color.",
+    "task_id": "Amazon--37",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

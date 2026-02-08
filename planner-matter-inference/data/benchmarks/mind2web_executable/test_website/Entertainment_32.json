@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 32, "start_url": "https://www.nba.com/", "intent": "Find Devin Booker's highest scoring points per gameplayoff run.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

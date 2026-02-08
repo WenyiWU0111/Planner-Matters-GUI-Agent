@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 43, "start_url": "https://www.bestbuy.com/", "intent": "Discover the trade-in value of my intel 7th generation i3 windows 10, hp laptop in fair condition,  which has 8 GB memory and can be powered on, proceed for the in-store trade-in.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

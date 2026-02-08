@@ -1,0 +1,6 @@
+{
+    "intent": "Find 5 beauty salons with ratings greater than 4.8 in Seattle, WA.",
+    "task_id": "Google_Map--0",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

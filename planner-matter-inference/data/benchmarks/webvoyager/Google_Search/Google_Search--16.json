@@ -1,0 +1,6 @@
+{
+    "intent": "How many members are there in the OpenAI community on Reddit, and what is the hottest news right now?",
+    "task_id": "Google_Search--16",
+    "site": "Google_Search",
+    "start_url": "https://www.google.com/"
+}

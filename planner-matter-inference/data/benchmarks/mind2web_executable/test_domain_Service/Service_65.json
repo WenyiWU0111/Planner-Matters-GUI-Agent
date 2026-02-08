@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 65, "start_url": "https://www.babycenter.com/", "intent": "What are the newest Getting Pregnant groups?", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,6 @@
+{
+    "intent": "Find the pronunciation, definition, and a sample sentence for the word \"resilience\" in the Cambridge Dictionary.",
+    "task_id": "Cambridge_Dictionary--12",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

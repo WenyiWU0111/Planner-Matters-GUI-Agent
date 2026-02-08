@@ -1,0 +1,1 @@
+{"sites": ["Travel"], "task_id": 44, "start_url": "https://www.tripadvisor.com/", "intent": "Find the recommended list of things to do in Switzerland.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

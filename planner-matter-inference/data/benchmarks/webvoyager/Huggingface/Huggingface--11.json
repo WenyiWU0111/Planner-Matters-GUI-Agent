@@ -1,0 +1,6 @@
+{
+    "intent": "Identify the latest updated image to video model available on Huggingface and summarize its main features.",
+    "task_id": "Huggingface--11",
+    "site": "Huggingface",
+    "start_url": "https://huggingface.co/"
+}

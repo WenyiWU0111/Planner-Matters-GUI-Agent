@@ -1,0 +1,6 @@
+{
+    "intent": "How many types of Apple Pencil are currently available on the Apple's website? Which one supports Wireless pairing and charging.",
+    "task_id": "Apple--35",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

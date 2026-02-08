@@ -1,0 +1,6 @@
+{
+    "intent": "Look up the latest stable release version of Vuex and find out when it was published.",
+    "task_id": "GitHub--8",
+    "site": "GitHub",
+    "start_url": "https://github.com/"
+}

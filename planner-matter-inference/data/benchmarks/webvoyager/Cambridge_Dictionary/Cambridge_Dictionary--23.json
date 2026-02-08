@@ -1,0 +1,6 @@
+{
+    "intent": "Find the US English pronunciation of the word \"meticulous\" using the Cambridge Dictionary and note the International Phonetic Alphabet (IPA) notation, then find one example sentence provided in the dictionary using this word.",
+    "task_id": "Cambridge_Dictionary--23",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

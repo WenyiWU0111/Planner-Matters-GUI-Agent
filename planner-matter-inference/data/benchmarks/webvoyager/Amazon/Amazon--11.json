@@ -1,0 +1,6 @@
+{
+    "intent": "Find a stainless steel kitchen sink with double bowls on Amazon. Sort the results and find the cheapest one with FREE delivery.",
+    "task_id": "Amazon--11",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

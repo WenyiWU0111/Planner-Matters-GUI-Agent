@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 14, "start_url": "https://www.adoptapet.com/", "intent": "Find information about which breed will be best for Hypoallergenic person.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

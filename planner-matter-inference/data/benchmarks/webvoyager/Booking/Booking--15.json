@@ -1,0 +1,6 @@
+{
+    "intent": "Find the highest-rated luxury hotel in Rome available for booking from January 10, 2024, to January 20, 2024, for 2 adults. Include the cost, amenities offered, and customer rating.",
+    "task_id": "Booking--15",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

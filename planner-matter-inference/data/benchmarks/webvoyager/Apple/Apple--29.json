@@ -1,0 +1,6 @@
+{
+    "intent": "On Apple's website, check the estimated battery life of the latest MacBook Air during web browsing in Tech Specs.",
+    "task_id": "Apple--29",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

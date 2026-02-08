@@ -1,0 +1,6 @@
+{
+    "intent": "Search a one-way filght from Dublin To Athens Greece for 1 Adult that leaves on December 30 and analyse the price graph for the next 2 months.",
+    "task_id": "Google_Flights--8",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

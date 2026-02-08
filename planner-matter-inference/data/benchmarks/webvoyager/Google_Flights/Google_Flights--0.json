@@ -1,0 +1,6 @@
+{
+    "intent": "Book a journey with return option on same day from Edinburg to Manchester on December 28th and show me the lowest price option available.",
+    "task_id": "Google_Flights--0",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

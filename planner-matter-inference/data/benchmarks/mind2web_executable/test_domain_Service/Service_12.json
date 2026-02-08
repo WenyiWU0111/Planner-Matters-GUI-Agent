@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 12, "start_url": "https://www.adoptapet.com/", "intent": "Find a nationwide nearest animal shelter for birds around zip 10012.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

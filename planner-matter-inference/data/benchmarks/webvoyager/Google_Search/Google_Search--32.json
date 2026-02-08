@@ -1,0 +1,6 @@
+{
+    "intent": "Find out where and when the most recent UEFA Champions League final was held, and which team won.",
+    "task_id": "Google_Search--32",
+    "site": "Google_Search",
+    "start_url": "https://www.google.com/"
+}

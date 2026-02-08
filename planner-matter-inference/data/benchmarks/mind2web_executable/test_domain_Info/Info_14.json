@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 14, "start_url": "https://www.theweathernetwork.com/", "intent": "Get details of severe weather alerts in place for Novia Scotia, Canada.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

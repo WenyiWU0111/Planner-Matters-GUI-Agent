@@ -1,0 +1,6 @@
+{
+    "intent": "Search for the word \"ephemeral\" on Cambridge Dictionary and find its translation into Spanish.",
+    "task_id": "Cambridge_Dictionary--21",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

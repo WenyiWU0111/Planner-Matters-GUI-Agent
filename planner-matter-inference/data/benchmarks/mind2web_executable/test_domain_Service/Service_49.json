@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 49, "start_url": "https://www.bbb.org/", "intent": "Find all the locations for the second best rated used car dealer less than 5 miles from New York", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

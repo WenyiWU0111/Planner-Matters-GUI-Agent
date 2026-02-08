@@ -1,0 +1,6 @@
+{
+    "intent": "Show a list of the top 5 highest-grossing animated movies, sorted by box office earnings.",
+    "task_id": "Google_Search--21",
+    "site": "Google_Search",
+    "start_url": "https://www.google.com/"
+}

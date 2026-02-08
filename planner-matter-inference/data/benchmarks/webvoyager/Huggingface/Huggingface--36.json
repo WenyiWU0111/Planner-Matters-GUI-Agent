@@ -1,0 +1,6 @@
+{
+    "intent": "Summarize all the payment plans and their advantages in huggingface pricing.",
+    "task_id": "Huggingface--36",
+    "site": "Huggingface",
+    "start_url": "https://huggingface.co/"
+}

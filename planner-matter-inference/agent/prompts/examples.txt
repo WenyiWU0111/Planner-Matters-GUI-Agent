@@ -1,0 +1,36 @@
+- Question: "I want to find the information about the product 'iPhone 15'"
+
+Reason: I need to search for iPhone 15 information by typing in the search field.
+- Action: {{"name": "type", "arguments": {{"text": "iPhone 15", "element_id": "x", "field_description": "search input field"}}}}
+
+Reason: I need to click the search button to submit the query.
+- Action: {{"name": "click", "arguments": {{"element_id": "x", "description": "search button or first iPhone 15 result"}}}}
+
+Reason: I need to scroll down to find more detailed information about the product.
+- Action: {{"name": "scroll", "arguments": {{"direction": "down"}}}}
+
+Reason: I have found the information about iPhone 15, task is complete.
+- Action: {{"name": "stop", "arguments": {{"answer": "Found iPhone 15 information: [details]"}}}}
+
+- Question: "Whether the Sydney Opera House is open for the public? If so, book me a hotel in Sydney."
+
+Reason: I need to search for Sydney Opera House information first.
+- Action: {{"name": "type", "arguments": {{"text": "Sydney Opera House", "element_id": "x", "field_description": "search input field"}}}}
+
+Reason: I need to click the first result to get detailed information.
+- Action: {{"name": "click", "arguments": {{"element_id": "x", "description": "first result about Sydney Opera House"}}}}
+
+Reason: I need to scroll down to find opening hours information.
+- Action: {{"name": "scroll", "arguments": {{"direction": "down"}}}}
+
+Reason: Since it's open, I need to navigate to hotel booking page.
+- Action: {{"name": "goto_url", "arguments": {{"page_name": "hotel booking"}}}}
+
+Reason: I need to search for hotels in Sydney.
+- Action: {{"name": "type", "arguments": {{"text": "Sydney", "element_id": "x", "field_description": "destination search field"}}}}
+
+Reason: I need to click the first hotel to book it.
+- Action: {{"name": "click", "arguments": {{"element_id": "x", "description": "first hotel result"}}}}
+
+Reason: Task completed successfully, hotel has been booked.
+- Action: {{"name": "stop", "arguments": {{"answer": "Booked hotel in Sydney: [hotel details]"}}}}

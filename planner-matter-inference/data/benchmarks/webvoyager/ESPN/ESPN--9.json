@@ -1,0 +1,6 @@
+{
+    "intent": "Search on ESPN for how many teams have Los Angeles in their name and how many of them are NBA.",
+    "task_id": "ESPN--9",
+    "site": "ESPN",
+    "start_url": "https://www.espn.com/"
+}

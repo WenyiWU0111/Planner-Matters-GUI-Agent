@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 31, "start_url": "https://www.stubhub.com/", "intent": "Check parking available for Bad Bunny concert.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

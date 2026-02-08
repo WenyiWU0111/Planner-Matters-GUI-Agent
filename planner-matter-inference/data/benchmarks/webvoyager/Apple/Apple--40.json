@@ -1,0 +1,6 @@
+{
+    "intent": "Find information on Apple website, and tell me the device weight of Apple Vision Pro and list 5 Built-in Apps it supports.",
+    "task_id": "Apple--40",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

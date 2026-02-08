@@ -1,0 +1,33 @@
+{
+    "sites": [
+        "wikipedia"
+    ],
+    "task_id": 280,
+    "require_login": true,
+    "storage_state": "",
+    "start_url": "https://library.kiwix.org/viewer#wikipedia_en_all_maxi_2024-01/A/User%3AThe_other_Kiwix_guy/Landing",
+    "geolocation": null,
+    "intent_template": "Which insects body looks like a sort of Cherry stick candy more; Pyrrhosoma nymphula or Sympetrum fonscolombii?",
+    "instantiation_dict": {},
+    "intent": "Which insects body looks like a sort of Cherry stick candy more; Pyrrhosoma nymphula or Sympetrum fonscolombii?",
+    "require_reset": false,
+    "eval": {
+        "eval_types": [
+            "string_match"
+        ],
+        "reference_answers": {
+            "fuzzy_match": [
+                "The body of Pyrrhosoma nymphula looks more like a sort of cherry stick candy than does the body of Sympetrum fonscolombii."
+            ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": [
+            "The body of Pyrrhosoma nymphula looks more like a sort of cherry stick candy than does the body of Sympetrum fonscolombii."
+        ]
+    },
+    "intent_template_id": 348,
+    "hop_cnt": 2,
+    "action_cnt": 6
+}

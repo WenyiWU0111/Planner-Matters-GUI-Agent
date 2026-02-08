@@ -1,0 +1,6 @@
+{
+    "intent": "List at least 6 holiday recipes sections mentioned in the Occasions section of Allrecipes.",
+    "task_id": "Allrecipes--44",
+    "site": "Allrecipes",
+    "start_url": "https://www.allrecipes.com/"
+}

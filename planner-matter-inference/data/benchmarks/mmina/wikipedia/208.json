@@ -1,0 +1,33 @@
+{
+    "sites": [
+        "wikipedia"
+    ],
+    "task_id": 208,
+    "require_login": true,
+    "storage_state": "",
+    "start_url": "https://library.kiwix.org/viewer#wikipedia_en_all_maxi_2024-01/A/User%3AThe_other_Kiwix_guy/Landing",
+    "geolocation": null,
+    "intent_template": "Which insects back pattern looks more like various leaf shapes; Blepharopsis mendica or Orthetrum icteromelas?",
+    "instantiation_dict": {},
+    "intent": "Which insects back pattern looks more like various leaf shapes; Blepharopsis mendica or Orthetrum icteromelas?",
+    "require_reset": false,
+    "eval": {
+        "eval_types": [
+            "string_match"
+        ],
+        "reference_answers": {
+            "fuzzy_match": [
+                "The Blepharopsis mendica has a pattern on its back that looks more like various leaf shapes."
+            ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": [
+            "The Blepharopsis mendica has a pattern on its back that looks more like various leaf shapes."
+        ]
+    },
+    "intent_template_id": 348,
+    "hop_cnt": 2,
+    "action_cnt": 6
+}

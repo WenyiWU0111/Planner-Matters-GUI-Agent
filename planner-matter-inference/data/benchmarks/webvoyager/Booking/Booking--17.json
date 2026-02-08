@@ -1,0 +1,6 @@
+{
+    "intent": "Find a hotel in Paris with a fitness center and a rating of 8 or higher available for a 5-night stay starting from February 14, 2024, and sort the results by best reviewed.",
+    "task_id": "Booking--17",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

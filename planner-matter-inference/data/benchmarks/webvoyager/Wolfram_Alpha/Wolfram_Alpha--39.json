@@ -1,0 +1,6 @@
+{
+    "intent": "Use Wolfram alpha to write the expression of the ellipse x^2 + 3 y^2 = 4 rotated 33 degrees counterclockwise.",
+    "task_id": "Wolfram_Alpha--39",
+    "site": "Wolfram_Alpha",
+    "start_url": "https://www.wolframalpha.com/"
+}

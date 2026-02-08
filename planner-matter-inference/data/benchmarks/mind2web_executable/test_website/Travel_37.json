@@ -1,0 +1,1 @@
+{"sites": ["Travel"], "task_id": 37, "start_url": "https://www.tripadvisor.com/", "intent": "Find an Indian restaurant for dinner in Los Angeles, order online from the top restaurant, and save this to a list named Los Angeles.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

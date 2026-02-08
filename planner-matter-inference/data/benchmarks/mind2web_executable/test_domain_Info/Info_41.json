@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 41, "start_url": "https://www.usnews.com/education", "intent": "Find nursing master's programs in Iowa with the highest enrollment", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

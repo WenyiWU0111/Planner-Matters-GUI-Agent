@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 10, "start_url": "https://www.adoptapet.com/", "intent": "Find a shelter or rescue group near zip code 90011.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

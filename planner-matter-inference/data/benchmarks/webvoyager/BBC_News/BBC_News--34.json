@@ -1,0 +1,6 @@
+{
+    "intent": "Find The SpeciaList section in Travel and browse the page to see which cities are mentioned.",
+    "task_id": "BBC_News--34",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

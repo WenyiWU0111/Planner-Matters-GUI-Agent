@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 10, "start_url": "https://www.cars.com/", "intent": "Find a highest rated dealer for Cadillac with rating above 4 star within 20 miles of zip 60606.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

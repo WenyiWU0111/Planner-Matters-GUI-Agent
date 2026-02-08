@@ -1,0 +1,6 @@
+{
+    "intent": "Search an Xbox Wireless controller with green color and rated above 4 stars.",
+    "task_id": "Amazon--0",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

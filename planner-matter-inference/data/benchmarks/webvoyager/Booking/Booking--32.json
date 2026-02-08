@@ -1,0 +1,6 @@
+{
+    "intent": "Look for hotels in Sydney from February 24 to February 27, 2024, on Booking. Once the Swimming Pool and Airport Shuttle filters are applied, what is the total number of hotels available?",
+    "task_id": "Booking--32",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 72, "start_url": "https://www.twitter.com/", "intent": "Go to my profile and add Bio: \"Explorer and Wanderer\"\n.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

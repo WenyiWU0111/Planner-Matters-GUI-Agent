@@ -1,0 +1,6 @@
+{
+    "intent": "Check the storage options and prices for the latest iPad Pro models on Apple's website.",
+    "task_id": "Apple--30",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

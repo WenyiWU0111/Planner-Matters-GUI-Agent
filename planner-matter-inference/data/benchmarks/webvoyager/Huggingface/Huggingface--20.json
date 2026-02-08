@@ -1,0 +1,6 @@
+{
+    "intent": "Locate a pre-trained natural language processing model on Hugging Face that specializes in named entity recognition (NER), confirm that the model was last updated in 2022 and has 1M+ downloads.",
+    "task_id": "Huggingface--20",
+    "site": "Huggingface",
+    "start_url": "https://huggingface.co/"
+}

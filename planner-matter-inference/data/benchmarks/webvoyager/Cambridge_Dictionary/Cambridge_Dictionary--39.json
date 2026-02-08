@@ -1,0 +1,6 @@
+{
+    "intent": "Try the Word Scramble game in the Plus section, Can you beat the clock by unscrambling the letters to spell the word? (Just try the first example.)",
+    "task_id": "Cambridge_Dictionary--39",
+    "site": "Cambridge_Dictionary",
+    "start_url": "https://dictionary.cambridge.org/"
+}

@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 23, "start_url": "https://www.osu.edu/", "intent": "Show me the requirements for OSU health insurance.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

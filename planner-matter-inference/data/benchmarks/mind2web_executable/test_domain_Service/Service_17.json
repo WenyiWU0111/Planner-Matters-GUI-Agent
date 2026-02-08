@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 17, "start_url": "https://www.ups.com/", "intent": "Request to receive an emailed transcript from a contact to UPS to the email I.contacted@gmail.com", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,6 @@
+{
+    "intent": "Locate a high-rated recipe for gluten-free brownies on Allrecipes with at least 50 reviews.",
+    "task_id": "Allrecipes--21",
+    "site": "Allrecipes",
+    "start_url": "https://www.allrecipes.com/"
+}

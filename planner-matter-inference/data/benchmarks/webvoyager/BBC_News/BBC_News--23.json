@@ -1,0 +1,6 @@
+{
+    "intent": "Identify the latest health-related news on BBC News and summarize the main findings or recommendations.",
+    "task_id": "BBC_News--23",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

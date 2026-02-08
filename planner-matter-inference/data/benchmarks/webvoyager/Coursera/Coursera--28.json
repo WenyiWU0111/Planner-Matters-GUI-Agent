@@ -1,0 +1,6 @@
+{
+    "intent": "Locate a Coursera Guided project related to 'Astrophysics' suitable for advanced learners. Mention the course duration, the institution offering it, and the main subjects covered in the course.",
+    "task_id": "Coursera--28",
+    "site": "Coursera",
+    "start_url": "https://www.coursera.org/"
+}

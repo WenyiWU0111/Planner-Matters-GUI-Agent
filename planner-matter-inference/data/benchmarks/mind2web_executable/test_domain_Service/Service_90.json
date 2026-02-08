@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 90, "start_url": "https://www.healthline.com/", "intent": "Browse articles for breast cancer treatments.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

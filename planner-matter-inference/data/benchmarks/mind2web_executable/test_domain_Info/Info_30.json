@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 30, "start_url": "https://stocktwits.com/", "intent": "Follow the user @pedrob", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

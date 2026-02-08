@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 92, "start_url": "https://www.adoptapet.com/", "intent": "Browse senior spayed/neutered dogs near zip code 90028.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

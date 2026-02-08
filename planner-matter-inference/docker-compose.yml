@@ -1,0 +1,46 @@
+version: '3.8'
+
+services:
+  gui-agent:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: gui-agent:latest
+    container_name: gui-agent-container
+
+    # Enable GPU support (requires nvidia-docker2 or nvidia-container-toolkit)
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+
+    # Environment variables
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=compute,utility
+      - DISPLAY=${DISPLAY:-:0}
+
+    # Volume mounts to persist data and share files
+    volumes:
+      - .:/workspace
+      - /tmp/.X11-unix:/tmp/.X11-unix:rw
+
+    # Network mode
+    network_mode: host
+
+    # Keep container running
+    stdin_open: true
+    tty: true
+
+    # Increase shared memory size for DataLoader workers and browser operations
+    # This prevents "Bus error" when using multiple DataLoader workers
+    shm_size: 8gb
+
+    # Working directory
+    working_dir: /workspace
+
+    # Default command
+    command: /bin/bash

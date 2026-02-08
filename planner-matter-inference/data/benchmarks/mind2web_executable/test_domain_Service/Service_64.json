@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 64, "start_url": "https://www.adoptapet.com/", "intent": "Create a free alert for a Jack Russell Terrier dog near zip code 10019 sending to buckeye.foobar@gmail.com", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

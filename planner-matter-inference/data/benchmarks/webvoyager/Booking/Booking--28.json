@@ -1,0 +1,6 @@
+{
+    "intent": "Find a hotel in Dubai with a swimming pool, for a week-long stay from February 22 to February 29, 2024.",
+    "task_id": "Booking--28",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

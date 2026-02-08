@@ -1,0 +1,6 @@
+{
+    "intent": "Identify a Specialization on Coursera that teaches C++ programming for beginners, provide the name and what the learning outcomes are.",
+    "task_id": "Coursera--5",
+    "site": "Coursera",
+    "start_url": "https://www.coursera.org/"
+}

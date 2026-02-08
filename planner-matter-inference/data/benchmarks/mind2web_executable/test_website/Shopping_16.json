@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 16, "start_url": "https://www.cars.com/", "intent": "Find a cheapest hatchback car listing in Madison which has red interiors with heated seat option and premium sound system.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

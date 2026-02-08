@@ -1,0 +1,6 @@
+{
+    "intent": "Search for a children's science experiment kit on Amazon suitable for ages 8-13, with at least a 4-star rating and priced under $30.",
+    "task_id": "Amazon--36",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

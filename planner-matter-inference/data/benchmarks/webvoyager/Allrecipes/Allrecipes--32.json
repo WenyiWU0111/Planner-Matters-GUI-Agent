@@ -1,0 +1,6 @@
+{
+    "intent": "Find a high-rated beef stew recipe on Allrecipes that requires a slow cooker and has at least 30 reviews. Detail the cooking time and the first five ingredients listed in the recipe.",
+    "task_id": "Allrecipes--32",
+    "site": "Allrecipes",
+    "start_url": "https://www.allrecipes.com/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Find the Customer Service on the Booking website, browse the questions about cancellation, and tell me 'how do I know whether my booking has been cancelled'.",
+    "task_id": "Booking--33",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

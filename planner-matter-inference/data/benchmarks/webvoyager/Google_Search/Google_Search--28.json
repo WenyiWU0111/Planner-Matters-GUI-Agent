@@ -1,0 +1,6 @@
+{
+    "intent": "Check the IMDb and Metacritic scores of the movie \"Inception.\"",
+    "task_id": "Google_Search--28",
+    "site": "Google_Search",
+    "start_url": "https://www.google.com/"
+}

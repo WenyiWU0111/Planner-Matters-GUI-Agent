@@ -1,0 +1,6 @@
+{
+    "intent": "Check ESPN for the final scores of NBA games that were played yesterday.",
+    "task_id": "ESPN--4",
+    "site": "ESPN",
+    "start_url": "https://www.espn.com/"
+}

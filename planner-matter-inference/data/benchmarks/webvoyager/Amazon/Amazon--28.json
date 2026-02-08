@@ -1,0 +1,6 @@
+{
+    "intent": "Search for a yoga mat on Amazon that is at least 6mm thick, non-slip, and eco-friendly. The price should be under $50.",
+    "task_id": "Amazon--28",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

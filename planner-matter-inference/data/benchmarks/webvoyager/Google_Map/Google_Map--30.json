@@ -1,0 +1,6 @@
+{
+    "intent": "Locate a parking lot near the Brooklyn Bridge that open 24 hours. Review the user comments about it.",
+    "task_id": "Google_Map--30",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

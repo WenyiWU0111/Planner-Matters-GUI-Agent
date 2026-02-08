@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 27, "start_url": "https://www.student.com/", "intent": "Show me the shared rooms in any university in chicago that has a private bathroom wifi, and gas included in the bills", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

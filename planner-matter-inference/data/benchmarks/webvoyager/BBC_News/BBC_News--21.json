@@ -1,0 +1,6 @@
+{
+    "intent": "Identify the top headline in the World News section on BBC News and describe the region it is related to.",
+    "task_id": "BBC_News--21",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

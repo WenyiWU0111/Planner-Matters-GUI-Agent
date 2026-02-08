@@ -1,0 +1,6 @@
+{
+    "intent": "Search for a 'virtual reality' related repository on GitHub updated in the last 10 days with at least 200 stars and summarize its main objective.",
+    "task_id": "GitHub--25",
+    "site": "GitHub",
+    "start_url": "https://github.com/"
+}

@@ -1,0 +1,1 @@
+{"sites": ["Entertainment"], "task_id": 38, "start_url": "https://ads.tiktok.com/business/creativecenter/music/pc/en", "intent": "Show me the performance analytics for the most popular product.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

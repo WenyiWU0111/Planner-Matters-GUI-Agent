@@ -1,0 +1,33 @@
+{
+    "sites": [
+        "wikipedia"
+    ],
+    "task_id": 239,
+    "require_login": true,
+    "storage_state": "",
+    "start_url": "https://library.kiwix.org/viewer#wikipedia_en_all_maxi_2024-01/A/User%3AThe_other_Kiwix_guy/Landing",
+    "geolocation": null,
+    "intent_template": "What grows near both the Hungarian National Museum building and the National Law Enforcement Officers Memorial???",
+    "instantiation_dict": {},
+    "intent": "What grows near both the Hungarian National Museum building and the National Law Enforcement Officers Memorial???",
+    "require_reset": false,
+    "eval": {
+        "eval_types": [
+            "string_match"
+        ],
+        "reference_answers": {
+            "fuzzy_match": [
+                "Trees grow near both the Hungarian National Museum building and the National Law Enforcement Officers Memorial."
+            ]
+        },
+        "reference_url": "",
+        "program_html": [],
+        "string_note": "",
+        "reference_answer_raw_annotation": [
+            "Trees grow near both the Hungarian National Museum building and the National Law Enforcement Officers Memorial."
+        ]
+    },
+    "intent_template_id": 348,
+    "hop_cnt": 2,
+    "action_cnt": 6
+}

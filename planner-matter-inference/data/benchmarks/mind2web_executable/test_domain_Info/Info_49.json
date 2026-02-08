@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 49, "start_url": "https://www.student.com/", "intent": "View the rooms of the cheapest accommodation in London to move in in september and move out in october", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

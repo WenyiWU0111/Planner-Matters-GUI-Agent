@@ -1,0 +1,6 @@
+{
+    "intent": "Retrieve a short biography of LeBron James.",
+    "task_id": "Google_Search--23",
+    "site": "Google_Search",
+    "start_url": "https://www.google.com/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "When and where the most recent World Cup was held, and which team was the winner?",
+    "task_id": "Google_Search--18",
+    "site": "Google_Search",
+    "start_url": "https://www.google.com/"
+}

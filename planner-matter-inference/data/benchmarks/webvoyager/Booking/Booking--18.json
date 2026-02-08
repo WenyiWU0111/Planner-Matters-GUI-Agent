@@ -1,0 +1,6 @@
+{
+    "intent": "Search a hotel in London with a user rating of 8 or higher for a stay between February 14th, 2024, and February 21st, 2024, suitable for a couple. Provide the name and a short description of the hotel.",
+    "task_id": "Booking--18",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

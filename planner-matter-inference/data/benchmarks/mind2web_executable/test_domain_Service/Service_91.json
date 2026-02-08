@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 91, "start_url": "https://www.adoptapet.com/", "intent": "Find a white female kitten within 35 miles of zip 77494.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

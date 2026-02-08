@@ -1,0 +1,6 @@
+{
+    "intent": "Find a compact digital camera on Amazon with a zoom capability of at least 10x, rated 4 stars or higher, and priced between $100 to $300.",
+    "task_id": "Amazon--31",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

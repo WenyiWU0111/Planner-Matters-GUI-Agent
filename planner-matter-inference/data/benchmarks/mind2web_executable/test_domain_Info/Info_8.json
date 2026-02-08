@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 8, "start_url": "https://cookpad.com/us", "intent": "Print a recipe containing shrimp.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

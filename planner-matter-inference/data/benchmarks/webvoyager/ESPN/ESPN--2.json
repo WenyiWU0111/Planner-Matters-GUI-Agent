@@ -1,0 +1,6 @@
+{
+    "intent": "Show the scores and main highlight of the Milwaukee Bucks game that took place within the last 2 days on ESPN.",
+    "task_id": "ESPN--2",
+    "site": "ESPN",
+    "start_url": "https://www.espn.com/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Find the release date for the latest \"Fast & Furious\" movie.",
+    "task_id": "Google_Search--20",
+    "site": "Google_Search",
+    "start_url": "https://www.google.com/"
+}

@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 68, "start_url": "https://www.justice.gov/", "intent": "Find press releases by antitrust division in 2022", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

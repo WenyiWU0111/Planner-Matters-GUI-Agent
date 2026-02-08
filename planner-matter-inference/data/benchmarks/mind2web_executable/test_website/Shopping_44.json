@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 44, "start_url": "https://www.bestbuy.com/", "intent": "search for new internal M2 Samsung ssd drive within $25 and $200.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

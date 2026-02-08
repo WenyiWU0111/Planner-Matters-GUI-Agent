@@ -1,0 +1,1 @@
+{"sites": ["Travel"], "task_id": 39, "start_url": "https://www.trip.com/", "intent": "Find hotels with breakfast included in las vegas for 3 adults to stay in two rooms from April 10 to april 23", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

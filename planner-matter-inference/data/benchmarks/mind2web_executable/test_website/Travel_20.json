@@ -1,0 +1,1 @@
+{"sites": ["Travel"], "task_id": 20, "start_url": "https://www.tripadvisor.com/", "intent": "Book cheapest available tickets of Eiffel tower in Paris for 2 adults.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

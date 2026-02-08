@@ -1,0 +1,6 @@
+{
+    "intent": "Locate the repository for the open-source project \"vscode\" and identify the top three contributors.",
+    "task_id": "GitHub--14",
+    "site": "GitHub",
+    "start_url": "https://github.com/"
+}

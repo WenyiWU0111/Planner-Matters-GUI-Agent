@@ -1,0 +1,6 @@
+{
+    "intent": "Locate a hotel in Rome with a good rating (7 or above) that offers free cancellation and breakfast included, for a three-night stay from February 28 to March 2, 2024, for two adults.",
+    "task_id": "Booking--20",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 4, "start_url": "https://shopping.google.com/", "intent": "Create a list of drip coffee makers that are on sale and within $25-60 and have a black finish.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

@@ -1,0 +1,6 @@
+{
+    "intent": "Identify bus stops in Ypsilanti, MI, list three of them.",
+    "task_id": "Google_Map--29",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

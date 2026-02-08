@@ -1,0 +1,6 @@
+{
+    "intent": "Find the GitHub Skill section and how many courses are under the 'First day on GitHub' heading.",
+    "task_id": "GitHub--16",
+    "site": "GitHub",
+    "start_url": "https://github.com/"
+}

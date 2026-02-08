@@ -1,0 +1,6 @@
+{
+    "intent": "Calculate the estimated time to sunburn for different skin types when exposed to the sun at 1:00 pm with SPF 1 in Brazil.",
+    "task_id": "Wolfram_Alpha--30",
+    "site": "Wolfram_Alpha",
+    "start_url": "https://www.wolframalpha.com/"
+}

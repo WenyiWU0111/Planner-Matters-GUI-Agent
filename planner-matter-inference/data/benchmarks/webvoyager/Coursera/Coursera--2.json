@@ -1,0 +1,6 @@
+{
+    "intent": "Find a Beginner's Spanish Specialization on Coursera and show all the courses in this Specialization.",
+    "task_id": "Coursera--2",
+    "site": "Coursera",
+    "start_url": "https://www.coursera.org/"
+}

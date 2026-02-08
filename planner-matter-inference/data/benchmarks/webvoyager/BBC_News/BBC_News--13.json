@@ -1,0 +1,6 @@
+{
+    "intent": "Search for recent news related to Trump and summarize the main points.",
+    "task_id": "BBC_News--13",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

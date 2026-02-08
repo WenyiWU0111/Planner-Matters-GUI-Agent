@@ -1,0 +1,6 @@
+{
+    "intent": "On ArXiv, how many articles have 'SimCSE' in the article and are originally announced in October 2023?",
+    "task_id": "ArXiv--14",
+    "site": "ArXiv",
+    "start_url": "https://arxiv.org/"
+}

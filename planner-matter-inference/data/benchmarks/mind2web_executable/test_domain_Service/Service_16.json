@@ -1,0 +1,1 @@
+{"sites": ["Service"], "task_id": 16, "start_url": "https://www.ups.com/", "intent": "Find a UPS drop off point near miami in Florida", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

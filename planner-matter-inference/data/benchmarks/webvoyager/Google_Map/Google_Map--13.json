@@ -1,0 +1,6 @@
+{
+    "intent": "Find a parking lot in Gloucester and book a ride from there to North Plymouth, view the map to understand the route better.",
+    "task_id": "Google_Map--13",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

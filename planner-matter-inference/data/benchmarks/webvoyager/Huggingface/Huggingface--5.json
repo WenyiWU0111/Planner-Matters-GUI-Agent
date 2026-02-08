@@ -1,0 +1,6 @@
+{
+    "intent": "Find a model released on Hugging Face for recipe generation. Retrieve the information of the model, including its name, model size and tensor type.",
+    "task_id": "Huggingface--5",
+    "site": "Huggingface",
+    "start_url": "https://huggingface.co/"
+}

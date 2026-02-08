@@ -1,0 +1,6 @@
+{
+    "intent": "How many articles on ArXiv with 'SimCSE' in the title?",
+    "task_id": "ArXiv--13",
+    "site": "ArXiv",
+    "start_url": "https://arxiv.org/"
+}

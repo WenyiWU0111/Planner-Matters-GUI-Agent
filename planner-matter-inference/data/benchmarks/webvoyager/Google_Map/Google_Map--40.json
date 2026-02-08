@@ -1,0 +1,6 @@
+{
+    "intent": "Find a restaurant in Boston that eats Boston lobster and asks for a rating of 4.6 or higher, and check out what a one-star review says.",
+    "task_id": "Google_Map--40",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

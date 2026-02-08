@@ -1,0 +1,6 @@
+{
+    "intent": "Find Apple Stores close to zip code 90028",
+    "task_id": "Google_Map--2",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

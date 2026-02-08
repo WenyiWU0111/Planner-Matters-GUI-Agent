@@ -1,0 +1,6 @@
+{
+    "intent": "Identify a course or Specialization on Coursera that helps business process management with with a rating 4.7.",
+    "task_id": "Coursera--4",
+    "site": "Coursera",
+    "start_url": "https://www.coursera.org/"
+}

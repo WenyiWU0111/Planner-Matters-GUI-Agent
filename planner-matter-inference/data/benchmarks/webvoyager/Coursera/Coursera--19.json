@@ -1,0 +1,6 @@
+{
+    "intent": "Identify a course on Coursera that provides an introduction to Psychology, list the instructor's name, the institution offering it, and how many hours it will approximately take to complete.",
+    "task_id": "Coursera--19",
+    "site": "Coursera",
+    "start_url": "https://www.coursera.org/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Find the cheapest one-way flight from London to Paris, departing on January 25, 2024. Include the airline, total travel time, and layovers for the chosen flight.",
+    "task_id": "Google_Flights--19",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

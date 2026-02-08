@@ -1,0 +1,6 @@
+{
+    "intent": "Search for women's golf polos in m size, priced between 50 to 75 dollars, and save the lowest priced among results.",
+    "task_id": "Amazon--1",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Find a recipe for a vegetarian lasagna that has at least a four-star rating and uses zucchini.",
+    "task_id": "Allrecipes--1",
+    "site": "Allrecipes",
+    "start_url": "https://www.allrecipes.com/"
+}

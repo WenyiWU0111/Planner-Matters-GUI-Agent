@@ -1,0 +1,6 @@
+{
+    "intent": "Find the most download machine translation model on Huggingface which focuses on English and Japanese (en-ja) and report the evaluation metrics stated for it.",
+    "task_id": "Huggingface--9",
+    "site": "Huggingface",
+    "start_url": "https://huggingface.co/"
+}

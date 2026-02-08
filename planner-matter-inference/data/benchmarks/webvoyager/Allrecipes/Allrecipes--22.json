@@ -1,0 +1,6 @@
+{
+    "intent": "Find a recipe for a healthy avocado salad on Allrecipes that has a preparation time of less than 20 minutes and more than 30 user reviews.",
+    "task_id": "Allrecipes--22",
+    "site": "Allrecipes",
+    "start_url": "https://www.allrecipes.com/"
+}

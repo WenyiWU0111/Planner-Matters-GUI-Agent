@@ -1,0 +1,1 @@
+{"sites": ["Travel"], "task_id": 3, "start_url": "https://www.tripadvisor.com/", "intent": "Save to my trips a restaurants in Johannesburg with vegan options.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

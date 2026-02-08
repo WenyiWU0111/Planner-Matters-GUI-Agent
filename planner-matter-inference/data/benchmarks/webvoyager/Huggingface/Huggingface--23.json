@@ -1,0 +1,6 @@
+{
+    "intent": "Identify three innovative and widely recognized open-source NLP models for automatic speech recognition released in the past month on Huggingface.",
+    "task_id": "Huggingface--23",
+    "site": "Huggingface",
+    "start_url": "https://huggingface.co/"
+}

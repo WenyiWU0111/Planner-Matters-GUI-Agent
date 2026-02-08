@@ -1,0 +1,6 @@
+{
+    "intent": "Book one room which provides breakfast, and airport shuttle from Jan 22 to 25 in Los Angeles.",
+    "task_id": "Booking--6",
+    "site": "Booking",
+    "start_url": "https://www.booking.com/"
+}

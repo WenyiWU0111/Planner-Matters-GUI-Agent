@@ -1,0 +1,1 @@
+{"sites": ["Travel"], "task_id": 22, "start_url": "https://www.recreation.gov/", "intent": "Open the most helpful 5 star reviews of Alpine Ridge.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

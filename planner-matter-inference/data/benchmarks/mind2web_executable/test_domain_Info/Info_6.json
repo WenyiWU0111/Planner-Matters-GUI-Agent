@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 6, "start_url": "https://cookpad.com/us", "intent": "React to a cooksnap with a heart", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

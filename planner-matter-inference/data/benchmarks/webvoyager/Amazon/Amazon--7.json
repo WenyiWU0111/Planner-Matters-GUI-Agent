@@ -1,0 +1,6 @@
+{
+    "intent": "Browse the women's hiking boots on Amazon and filter the results to show only those that are waterproof and have a rating of at least 4 stars and size 6.",
+    "task_id": "Amazon--7",
+    "site": "Amazon",
+    "start_url": "https://www.amazon.com/"
+}

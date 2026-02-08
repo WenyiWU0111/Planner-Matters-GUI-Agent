@@ -1,0 +1,6 @@
+{
+    "intent": "Locate an open-source conversational AI model on Hugging Face, trained in English and list its main features and applications.",
+    "task_id": "Huggingface--4",
+    "site": "Huggingface",
+    "start_url": "https://huggingface.co/"
+}

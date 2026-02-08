@@ -1,0 +1,6 @@
+{
+    "intent": "Download the paper 'Dense Passage Retrieval for Open-Domain Question Answering'. How many formulas are in the article and which one is the loss function?",
+    "task_id": "ArXiv--18",
+    "site": "ArXiv",
+    "start_url": "https://arxiv.org/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Locate a large store in Washington that has kids' and maternity products.",
+    "task_id": "Google_Map--11",
+    "site": "Google_Map",
+    "start_url": "https://www.google.com/maps/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "What is the name of the star system closest to the Solar System, and what are the discovered planets in it?",
+    "task_id": "Google_Search--24",
+    "site": "Google_Search",
+    "start_url": "https://www.google.com/"
+}

@@ -1,0 +1,6 @@
+{
+    "intent": "Find the most affordable one-way flight from Cape Town to Singapore, departing on March 20, 2024, and include the airline and total number of layovers.",
+    "task_id": "Google_Flights--30",
+    "site": "Google_Flights",
+    "start_url": "https://www.google.com/travel/flights/"
+}

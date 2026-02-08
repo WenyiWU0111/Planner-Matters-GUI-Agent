@@ -1,0 +1,6 @@
+{
+    "intent": "Query ArXiv for the latest research article in the category of Systems and Control under Computer Science. Summarize the main objective or hypothesis presented in the paper and provide the names of the authors.",
+    "task_id": "ArXiv--33",
+    "site": "ArXiv",
+    "start_url": "https://arxiv.org/"
+}

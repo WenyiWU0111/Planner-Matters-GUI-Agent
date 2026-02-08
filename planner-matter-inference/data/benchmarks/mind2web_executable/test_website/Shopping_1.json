@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 1, "start_url": "https://www.macys.com/", "intent": "Add a men's T-Shirt that is in large size with a stripe pattern, short sleeve and under the Best Sellers group to the cart.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

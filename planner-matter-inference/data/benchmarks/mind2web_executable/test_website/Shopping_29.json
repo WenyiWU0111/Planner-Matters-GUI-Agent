@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 29, "start_url": "https://www.cars.com/", "intent": "Find the seller info and seller's notes about used car model 2013  BMW 135 with a max price of $4000", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

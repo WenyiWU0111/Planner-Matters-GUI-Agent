@@ -1,0 +1,6 @@
+{
+    "intent": "Find out the trade-in value for an iPhone 13 Pro Max in good condition on the Apple website.",
+    "task_id": "Apple--22",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

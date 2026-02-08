@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 53, "start_url": "https://shopping.google.com/", "intent": "Look for a White PlayStation 5 Console and save it", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

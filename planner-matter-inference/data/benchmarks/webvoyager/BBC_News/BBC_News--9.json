@@ -1,0 +1,6 @@
+{
+    "intent": "Find out which musician made the headlines in Music News.",
+    "task_id": "BBC_News--9",
+    "site": "BBC_News",
+    "start_url": "https://www.bbc.com/news/"
+}

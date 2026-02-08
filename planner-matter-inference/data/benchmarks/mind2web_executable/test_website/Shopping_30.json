@@ -1,0 +1,1 @@
+{"sites": ["Shopping"], "task_id": 30, "start_url": "https://www.cars.com/", "intent": "Calculate the estimated car loan payment amount for an average credit-rated person for a 15,000-dollar car with a down payment of 2000 dollars and loan tenure of 48 months in zip 65215 and shop for the lowest priced car.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}

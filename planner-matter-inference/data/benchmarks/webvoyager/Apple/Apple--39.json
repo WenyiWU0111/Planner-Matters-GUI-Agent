@@ -1,0 +1,6 @@
+{
+    "intent": "Find solutions on Apple's website if you forgot your Apple ID password.",
+    "task_id": "Apple--39",
+    "site": "Apple",
+    "start_url": "https://www.apple.com/"
+}

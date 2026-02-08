@@ -1,0 +1,1 @@
+{"sites": ["Info"], "task_id": 10, "start_url": "https://cookpad.com/us", "intent": "Find a recipe for Fried Bombay Duck and Save it.", "require_reset": false, "eval": {"eval_types": ["LLM_eval"]}}
