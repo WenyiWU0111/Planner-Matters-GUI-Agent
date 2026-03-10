@@ -1,4 +1,4 @@
-# Planner Matters! An Efficient and Unbalanced Multi-agent Collaboration Framework for Long-horizonPlanning
+# Planner Matters! An Efficient and Unbalanced Multi-agent Collaboration Framework for Long-horizon Planning
 
 Official implementation for the paper **"Planner Matters! An Efficient and Unbalanced Multi-agent Collaboration Framework for Long-horizon Planning"**.
 
