@@ -1,6 +1,6 @@
-# Planner Matters! An Efficient and Unbalanced Multi-agent Collaboration Framework for Long-horizon GUI Planning
+# Planner Matters! An Efficient and Unbalanced Multi-agent Collaboration Framework for Long-horizonPlanning
 
-Official implementation for the paper **"Planner Matters! An Efficient and Unbalanced Multi-agent Collaboration Framework for Long-horizon GUI Planning"**.
+Official implementation for the paper **"Planner Matters! An Efficient and Unbalanced Multi-agent Collaboration Framework for Long-horizon Planning"**.
 
 ---
 ## Framework overview
@@ -131,8 +131,6 @@ If you use this code or the planner-centric framework, please cite our paper:
   title   = {Planner Matters! An Efficient and Unbalanced Multi-agent Collaboration Framework for Long-horizon GUI Planning},
   author  = {Wenyi Wu* and Sibo Zhu* and Kun Zhou and Biwei Huang},
   journal = {...},
-  year    = {2025}
+  year    = {2026}
 }
 ```
-
-Our code is publicly released as described in the paper.
