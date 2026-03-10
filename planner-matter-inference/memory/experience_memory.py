@@ -12,12 +12,11 @@ import numpy as np
 from actions.help_functions import parse_action_json
 from memory.help_functions import CLIPTextSimilarity, CLIPMultimodalSimilarity
 
-LOG_PATH = "memory"
 clip_similarity = CLIPTextSimilarity()
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
-logger.addHandler(logging.FileHandler(LOG_PATH + '/memory.log'))
+logger.addHandler(logging.FileHandler('memory.log'))
 
 
 def parse_action_json(message: str) -> Optional[Dict]:

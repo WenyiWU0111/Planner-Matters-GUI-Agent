@@ -53,7 +53,7 @@ class TestRunner:
             self.logger.info(f"Initializing memory for planning from {faiss_index_path}")
             self.memory = ExperienceMemorySimple(summary_json_path, faiss_index_path)
             if getattr(self.args, 'checkpoint_planner', None):
-                self.planner = create_model(checkpoint_path=self.args.checkpoint_planner)
+                self.planner = create_model(self.args)
             else:
                 self.planner = None
         else:

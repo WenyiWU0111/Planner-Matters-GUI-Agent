@@ -158,12 +158,6 @@ logs/
 *.csv
 *.jsonl
 
-# Screenshots and images (if any)
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.bmp
 
 # Browser automation
 browser_data/
@@ -186,3 +180,4 @@ data_preparation/output/*
 *.ipynb
 *.npy
 *.html
+*.json

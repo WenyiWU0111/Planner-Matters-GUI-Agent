@@ -6,7 +6,7 @@ Official implementation for the paper **"Planner Matters! An Efficient and Unbal
 
 ## Brief introduction
 
-Vision-language model (VLM)–based GUI agents have shown promising results in automating computer tasks from natural language instructions, but they still struggle with **long-horizon planning and reasoning**. We address this by proposing a **human-like multi-agent framework** that decomposes GUI automation into:
+Language model (LM)–based GUI agents have shown promising results in automating complex tasks from natural language instructions, but they still struggle with **long-horizon planning and reasoning**. We address this by proposing a **human-like multi-agent framework** that decomposes GUI automation into:
 
 - **Planner** — high-level step-by-step planning
 - **Actor** — low-level execution (click, type, scroll, etc.)
@@ -19,6 +19,9 @@ This decomposition enables structured decision-making over long interaction hori
 - **`planner-matter-inference/`** — Inference and evaluation (browser env, agent, memory, benchmarks, run scripts).
 - **`planner-matter-RL/`** — Planner-centric RL training (Ray, PPO, vLLM rollouts, VLM-as-judge).
 - **`planner-matter-sft/`** — SFT / LoRA training utilities.
+- **`OSWorld/`** — Experiments on the OSWorld benchmark.
+- **`mcp-bench/`** — Experiments on the MCP-Bench benchmark.
+
 
 ---
 
@@ -101,6 +104,14 @@ Use these as the planner (or actor) checkpoint in `.env` (`CHECKPOINT_PATH`) or 
 
 ---
 
+## Experiments on OSWorld and MCP-Bench
+
+Experiments and evaluation runs on the **OSWorld** and **MCP-Bench** benchmarks are provided in the respective folders:
+- **`OSWorld/`** — Contains scripts, configs, and results for OSWorld experiments.
+- **`mcp-bench/`** — Contains scripts, configs, and results for MCP-Bench experiments.
+
+---
+
 ## TODO
 
 - **Continuous memory embedding generation scripts** — Scripts to generate and index continuous (dense) memory embeddings for the memory manager will be released in a future update.
@@ -119,7 +130,5 @@ If you use this code or the planner-centric framework, please cite our paper:
   year    = {2025}
 }
 ```
-
-*(Replace with the final citation once the paper is published.)*
 
 Our code is publicly released as described in the paper.
