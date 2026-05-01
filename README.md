@@ -23,15 +23,6 @@ This decomposition enables structured decision-making over long interaction hori
 - **`OSWorld/`** — Experiments on the OSWorld benchmark.
 - **`mcp-bench/`** — Experiments on the MCP-Bench benchmark.
 
-
----
-
-## Framework overview
-
-![Framework overview](media/framework.png)
-
-The system uses a **planner** (with optional memory retrieval), an **actor** for browser actions, and a **memory manager**; planner-centric RL trains only the planner with a frozen actor and memory.
-
 ---
 
 ## Setting up
