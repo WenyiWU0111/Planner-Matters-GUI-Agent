@@ -5,7 +5,7 @@ Official implementation for the paper **"Planner Matters! An Efficient and Unbal
 ---
 ## Framework overview
 
-![Framework overview](media/framework.png)
+<img src="media/framework.png" alt="Framework overview" style="width: 80%;">
 
 Language model (LM)–based GUI agents have shown promising results in automating complex tasks from natural language instructions, but they still struggle with **long-horizon planning and reasoning**. We address this by proposing a **human-like multi-agent framework** that decomposes GUI automation into:
 
