@@ -118,10 +118,11 @@ Experiments and evaluation runs on the **OSWorld** and **MCP-Bench** benchmarks 
 If you use this code or the planner-centric framework, please cite our paper:
 
 ```bibtex
-@article{planner-matters-2025,
-  title   = {Planner Matters! An Efficient and Unbalanced Multi-agent Collaboration Framework for Long-horizon GUI Planning},
-  author  = {Wenyi Wu* and Sibo Zhu* and Kun Zhou and Biwei Huang},
-  journal = {...},
-  year    = {2026}
+@article{wu2026planner,
+  title={Planner Matters! An Efficient and Unbalanced Multi-agent Collaboration Framework for Long-horizon Planning},
+  author={Wu, Wenyi and Zhu, Sibo and Zhou, Kun and Huang, Biwei},
+  journal={arXiv preprint arXiv:2605.02168},
+  year={2026},
+  url={https://arxiv.org/abs/2605.02168}
 }
 ```
